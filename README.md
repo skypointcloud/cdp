@@ -1,2 +1,1 @@
-# icdp
-SkyPoint Intelligent Customer Data Platform
+# SkyPoint Intelligent Customer Data Platform
