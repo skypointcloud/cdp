@@ -11,7 +11,8 @@ If you're new to SkyPoint ICDP here's a place to start. You can start collecting
 SkyPoint ICDP is a realcdp.org complaint SaaS product. It provides 5 key capabilities:
 
 - Ingest data from any source
-- **Capture full detail of ingested data**
-- **Store ingested data indefinitely (subject to privacy constraints)**
-- **Create unified profiles of identified individuals/patients/consumers/provider etc. (360 degree-view)**
-- **Share data with any system that needs it (E.g. personalization, seo/sem, marketing, analytics, AI/machine learning etc.)**
+- Capture full detail of ingested data
+- Store ingested data indefinitely (subject to privacy constraints)
+- Create unified profiles of identified individuals/patients/consumers/provider etc. (360 degree-view)
+  - Unified profiles can then be segmented and enriched to create highly flexible targets for marketing or further analysis.
+- Share data with any system that needs it (E.g. personalization, seo/sem, marketing, analytics, AI/machine learning etc.)
