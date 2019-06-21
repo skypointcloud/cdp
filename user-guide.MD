@@ -22,8 +22,7 @@ SkyPoint ICDP is a realcdp.org complaint SaaS product. It provides following key
 
 We support 3 security groups natively: Admin, Contributor and Viewer. 
 
-
-#APIs
+# APIs
 
 SkyPoint ICDP is an API-First platform. We have provide APIs for all features of the platform. The goal of this section is not to cover all the APIs but to provide a general guidance to help developers to utilize the Swagger tool. 
 
