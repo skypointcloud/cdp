@@ -1,6 +1,6 @@
-# SkyPoint Intelligent Customer Data Platform 
+# SkyPoint Intelligent Customer Data Platform (ICDP)
 
-SkyPoint Intelligent Customer Data Platform with built-in machine learning, integrates all your data silos (transactional, behavioral, and observational) to unified, 360-degree and real-time customer profiles. Activate unified data and artificial intelligence driven insights for marketing orchestration, personalization, superior customer service, business analytics and GDPR compliance. 
+SkyPoint Intelligent Customer Data Platform (ICDP) with built-in machine learning, integrates all your data silos (transactional, behavioral, and observational) to unified, 360-degree and real-time customer profiles. Activate unified data and artificial intelligence driven insights for marketing orchestration, personalization, superior customer service, business analytics and GDPR compliance. 
 
 # Getting Started
 
@@ -23,3 +23,10 @@ SkyPoint ICDP is a realcdp.org complaint SaaS product. It provides following key
 We support 3 security groups natively: Admin, Contributor and Viewer. 
 
 
+#APIs
+
+SkyPoint ICDP is an API-First platform. We have provide APIs for all features of the platform. The goal of this section is not to cover all the APIs but to provide a general guidance to help developers to utilize the Swagger tool. 
+
+## How to use the ICDP Swagger webpage
+
+If you are not familiar with Swagger, see the following step-by-step tutorial: [Swagger UI tutorial](https://idratherbewriting.com/learnapidoc/pubapis_swagger.html).
