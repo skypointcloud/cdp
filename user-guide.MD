@@ -30,6 +30,8 @@ The first page you see after you login to ICDP app is the home page.
 
 SkyPoint ICDP is an API-First platform. We have provide APIs for all features of the platform. The goal of this section is not to cover all the APIs but to provide a general guidance to help developers to utilize the Swagger tool. 
 
+The details of APIs (including parameters and responses) can be found on the [ICDP Swagger Website](https://sicdpservices.azurewebsites.net/swagger).
+
 ## How to use the ICDP Swagger webpage
 
 If you are not familiar with Swagger, see the following step-by-step tutorial: [Swagger UI tutorial](https://idratherbewriting.com/learnapidoc/pubapis_swagger.html).
