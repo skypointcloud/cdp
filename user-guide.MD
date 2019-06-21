@@ -2,10 +2,6 @@
 
 SkyPoint Intelligent Customer Data Platform (ICDP) with built-in machine learning, integrates all your data silos (transactional, behavioral, and observational) to unified, 360-degree and real-time customer profiles. Activate unified data and artificial intelligence driven insights for marketing orchestration, personalization, superior customer service, business analytics and GDPR compliance. 
 
-# Getting Started
-
-If you're new to SkyPoint ICDP here's a place to start. You can start collecting data and building segments right out of the box.
-
 # How Does It Work?
 
 SkyPoint ICDP is a realcdp.org complaint SaaS product. It provides following key capabilities:
@@ -21,6 +17,14 @@ SkyPoint ICDP is a realcdp.org complaint SaaS product. It provides following key
 # Who are the users?
 
 We support 3 security groups natively: Admin, Contributor and Viewer. 
+
+# Getting Started
+
+If you're new to SkyPoint ICDP here's a place to start. You can start collecting data and building segments right out of the box.
+
+# Home 
+
+The first page you see after you login to ICDP app is the home page.
 
 # APIs
 
