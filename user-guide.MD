@@ -16,7 +16,7 @@ SkyPoint ICDP is a realcdp.org complaint SaaS product. It provides following key
 
 # Who are the users?
 
-We support 3 security groups natively: Admin, Contributor and Viewer. 
+We support 3 security groups natively: Administrator, Contributor and Reader. 
 
 # Getting Started
 
@@ -26,8 +26,38 @@ If you're new to SkyPoint ICDP here's a place to start. You can start collecting
 
 The first page you see after you login to ICDP app is the home page.
 
-# APIs
+# SkyPoint Cloud Intelligent Customer Data Platform Connector 
 
+This connector is available in the following products and regions:
+
+Service	    Class	    Regions
+
+Flow	      Standard	All Flow regions 
+PowerApps	Standard	All PowerApps regions except the following: 
+
+US Government (GCC) is not supported. 
+
+Actions
+
+GetEntities	
+Get entities from a tenant's instance
+
+GetRecord 	
+Gets a record (row) from an entity
+
+GetRecords 
+Gets records from an entity
+
+Triggers 
+
+GetOnDataFlowRefreshFinished
+Triggers a flow when a dataflow refresh is completed
+
+GetOnDataFlowRefreshFailed 
+Triggers a flow when a dataflow refresh is failed 
+
+# APIs
+    
 SkyPoint ICDP is an API-First platform. We have provide APIs for all features of the platform. The goal of this section is not to cover all the APIs but to provide a general guidance to help developers to utilize the Swagger tool. 
 
 The details of APIs (including parameters and responses) can be found on the [ICDP Swagger Website](https://sicdpservices.azurewebsites.net/swagger).
