@@ -32,8 +32,9 @@ This connector is available in the following products and regions:
 
 Service	    Class	    Regions
 
-Flow	      Standard	All Flow regions 
-PowerApps	Standard	All PowerApps regions except the following: 
+Flow	      Standard	All Flow  
+
+PowerApps	  Standard	All PowerApps 
 
 US Government (GCC) is not supported. 
 
