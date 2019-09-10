@@ -40,21 +40,21 @@ US Government (GCC) is not supported.
 
 Actions
 
-GetEntities	
-Get entities from a tenant's instance
+-- GetEntities	
+Get entities from a tenant's instance - Use API /api/instances/{instanceId}/manage/dataflows/entities (Retrieves all data flow for the provided instanceId).
 
-GetRecord 	
+-- GetRecord 	
 Gets a record (row) from an entity
 
-GetRecords 
+-- GetRecords 
 Gets records from an entity
 
 Triggers 
 
-GetOnDataFlowRefreshFinished
+-- GetOnDataFlowRefreshFinished
 Triggers a flow when a dataflow refresh is completed
 
-GetOnDataFlowRefreshFailed 
+-- GetOnDataFlowRefreshFailed 
 Triggers a flow when a dataflow refresh is failed 
 
 # APIs
