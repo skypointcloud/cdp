@@ -43,6 +43,22 @@ Actions
 -- GetEntities	
 Get entities from a tenant's instance - Use API /api/instances/{instanceId}/manage/dataflows/entities (Retrieves all data flow for the provided instanceId).
 
+Return JSON
+
+Name: Name of the entity
+
+Dataflow: Name of the data flow which the entity was ingested
+
+Created by: By whom was this entity initially created
+
+Created: When was this entity initially created
+
+Updated by: Who last updated the entity's data 
+
+Last updated: Last time this entity's data was updated
+
+Last refreshed: Last time this entity's data was refreshed
+
 -- GetRecord 	
 Gets a record (row) from an entity
 
