@@ -47,6 +47,8 @@ Return JSON
 
 Name: Name of the entity
 
+Type: Entity type (CDM, System, Custom etc.)
+
 Dataflow: Name of the data flow which the entity was ingested
 
 Created by: By whom was this entity initially created
