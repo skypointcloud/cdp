@@ -41,7 +41,7 @@ US Government (GCC) is not supported.
 Actions
 
 -- GetEntities	
-Get entities from a tenant's instance - Use API /api/instances/{instanceId}/manage/dataflows/entities (Retrieves all data flow for the provided instanceId).
+Get entities from a tenant's instance - Use API /api/instances/{instanceId}/manage/dataflows/entities (Retrieves all entities from all dataflows for the provided instanceId).
 
 Return JSON
 
