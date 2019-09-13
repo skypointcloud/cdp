@@ -80,8 +80,8 @@ Input:
 InstanceID, Entity Name, Total, Skip, Query 
 
 Query is ODATA filter query
-Total is total number of rows to retrieve (default = all rows).
-Total is number of rows to skip (default = 0).
+Total is total number of rows to retrieve (default is all rows).
+Skip is number of rows to skip (default is 0).
 Total & Skip can be used for pagination
 
 Output: 
