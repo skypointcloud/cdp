@@ -64,8 +64,29 @@ Last refreshed: Last time this entity's data was refreshed
 -- GetRecord 	
 Gets a record (row) from an entity
 
+Input: 
+
+InstanceID, Entity Name, RecordID e.g. GetRecord(GUID, Northwind.Customer, 23)
+
+Output: 
+
+JSON of the row values
+
 -- GetRecords 
 Gets records from an entity
+
+Input: 
+
+InstanceID, Entity Name, Total, Skip, Query 
+
+Query is ODATA filter query
+Total is total number of rows to retrieve (default = all rows).
+Total is number of rows to skip (default = 0).
+Total & Skip can be used for pagination
+
+Output: 
+
+JSON of the rows 
 
 Triggers 
 
