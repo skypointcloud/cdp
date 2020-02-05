@@ -1,2 +1,2 @@
-# SkyPoint Intelligent Customer Data Platform
-SkyPoint ICDP Documentation Repository
+# SkyPoint Customer Data Platform
+SkyPoint CDP Documentation Repository
