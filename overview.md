@@ -4,23 +4,23 @@ SkyPoint Intelligent Customer Data Platform (ICDP) with built-in machine learnin
 
 # How Does It Work?
 
-SkyPoint ICDP is a realcdp.org complaint SaaS product. It provides following key capabilities:
+SkyPoint CDP is a realcdp.org complaint SaaS product. It provides following key capabilities:
 
 - Ingest data from any source
 - Capture full detail of ingested data
 - Store ingested data indefinitely (subject to privacy constraints)
-- Create unified profiles of identified individuals/patients/consumers/provider etc. (360 degree-view)
-  - [Common Data Model](https://docs.microsoft.com/common-data-model/) / XDM compliant unified profiles can then be segmented and enriched to create highly flexible targets for marketing or further analysis.
+- Create unified profiles of identified individuals/customers/consumers/leads/prospects etc. (360 degree-view)
+  - [Common Data Model](https://docs.microsoft.com/common-data-model/) compliant unified profiles can then be segmented and enriched to create highly flexible targets for marketing or further analysis.
 - Share data with any system that needs it (E.g. personalization, seo/sem, marketing, analytics, AI/machine learning etc.)
   - Utilize [Microsoft Power Platform](https://powerplatform.microsoft.com/en-us/) to create automated workflows and no-code solutions.
 
 # Who are the users?
 
-We support 3 security groups natively: Administrator, Contributor and Reader. 
+We support 3 security groups natively: Tenant Administrator, Instance - Administrator, Contributor and Reader. 
 
 # Getting Started
 
-If you're new to SkyPoint ICDP here's a place to start. You can start collecting data and building segments right out of the box.
+If you're new to SkyPoint CDP here's a place to start. You can start collecting data and building segments right out of the box.
 
 # Home 
 
@@ -102,7 +102,7 @@ SkyPoint ICDP is an API-First platform. We have provide APIs for all features of
 
 The details of APIs (including parameters and responses) can be found on the [ICDP Swagger Website](https://sicdpservices.azurewebsites.net/swagger).
 
-## How to use the ICDP Swagger webpage
+## How to use the CDP Swagger webpage
 
 If you are not familiar with Swagger, see the following step-by-step tutorial: [Swagger UI tutorial](https://idratherbewriting.com/learnapidoc/pubapis_swagger.html).
 
@@ -180,7 +180,7 @@ If you are not familiar with Swagger, see the following step-by-step tutorial: [
 
    1. Give the name to the dataflow and save it. You can add more datasets (entities) to this dataflow by clicking on the edit option which appears on the expansion of the three-dot button. Then click on add entities and repeat steps 5 to 8.
 
-   1. Go back to https://app.skypointcloud.com/ and select Dataflow and click on refresh. You would be able to see the dataflow which you have created in the PowerBI.
+   1. Go back to SkyPoint CDP app and select Dataflow and click on refresh. You would be able to see the dataflow which you have created in the PowerBI.
 
 1. Click on Entities to see individual dataset's data and their attributes. However, you won't be able to see the data for the entities created using PowerBI.
 
