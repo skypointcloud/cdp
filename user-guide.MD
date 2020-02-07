@@ -156,7 +156,7 @@ If you are not familiar with Swagger, see the following step-by-step tutorial: [
 
 # User Manual for SkyPoint Cloud ICDP Platform
 
-1. Signup at https://app.skypointcloud.com/signup. It creates 1 Tenant, 1 Sandbox Instance and 1 User.
+1. Signup at https://skypointcloud.com. It creates 1 Tenant, 1 Sandbox Instance and 1 User.
 
 1. Click on the gearbox on the top right corner to create a new instance.
 
