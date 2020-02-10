@@ -4,7 +4,7 @@
 
 # Data
 
-## [Dataflows](data.md)
+## [Dataflows](dataflows.md)
 ## [Channels](channels.md)
 ## [Entities](entities.md)
 ## [Stitch](stitch.md)
