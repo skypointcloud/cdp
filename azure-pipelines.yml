@@ -5,15 +5,29 @@
 
 trigger:
 - master
+- az-devops
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: windows-2019
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+- powershell: |
+    choco install docfx -y
+    docfx docfx.json
+    if ($lastexitcode -ne 0){
+      throw ("Error generating document")
+    }
+  displayName: "docfx build"
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathToPublish: _site
+    artifactName: site
+
+- task: AzureFileCopy@3
+  inputs:
+    sourcePath: _site
+    azureSubscription: Visual Studio Enterprise
+    destination: azureBlob
+    storage: docfxazsite
+    containerName: "$web"
