@@ -45,13 +45,7 @@
     "globalMetadata": {
       "_appFooter":"Powered By SkyPoint Cloud",
       "_appLogoPath":"images/Skypoint-logo.png",
-      "_appFaviconPath":"images/Skypoint-logo-large.png",
-      "_gitContribute": {
-        "repo": "https://github.com/skypointcloud/icdp",
-        "branch": "master",
-        "apiSpecFolder": "docs-ref-overwrite"
-      },
-      "_gitUrlPattern":"https://github.com/skypointcloud/icdp"
+      "_appFaviconPath":"images/Skypoint-logo-large.png"
     },
     "dest": "_site",
     "globalMetadataFiles": [],
