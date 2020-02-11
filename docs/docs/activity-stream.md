@@ -1,0 +1,5 @@
+# Settings
+
+## Platform
+
+### Activity Stream

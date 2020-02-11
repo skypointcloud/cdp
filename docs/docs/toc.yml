@@ -1,0 +1,61 @@
+- name: Overview
+  href: overview.md
+- name: Data
+  items:
+    - name: Dataflows
+      href: dataflows.md
+    - name: Channels
+      href: channels.md
+    - name: Entities
+      href: entities.md
+    - name: Stitch
+      href: stitch.md
+    - name: Timelines
+      href: timelines.md
+    - name: Associations
+      href: associations.md
+    - name: Models
+      href: models.md
+    - name: Export
+      href: export.md
+
+- name: Insights
+  items:
+    - name: Profiles
+      href: profiles.md
+    - name: Audiences
+      href: audiences.md
+    - name: Metrics
+      href: metrics.md
+- name: Automation
+  items:
+    - name: Orchestrations
+      href: orchestrations.md
+- name: Settings
+  items:
+    - name: Platform
+      items:
+        - name: Notifications
+          href: notifications.md
+        - name: Schedule
+          href: schedule.md
+        - name: Instance
+          href: instance.md
+        - name: Product
+          href: product.md
+        - name: Activity Stream
+          href: activity-stream.md
+    - name: Security
+      href: security.md
+- name: GDPR
+  items:
+    - name: Where an Organization's Customer Service Insights Data is Located
+      href: data-location.md
+    - name: Requests to Delete Personal Data
+      href: gdpr-delete.md
+    - name: Discover Requests from Data Subjects
+      href: gdpr-discovery.md
+    - name: Requests for Copies of Personal Data
+      href: gdpr-export.md
+    - name: GDPR Compliance in Customer Service Insights
+      href: gdpr-summary.md
