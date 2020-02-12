@@ -1,6 +1,8 @@
 # SkyPoint Customer Data Platform (CDP)
 
-SkyPoint Customer Data Platform (CDP) with built-in machine learning, integrates all your data silos (transactional, behavioral, and observational) to unified, 360-degree and real-time customer profiles. Activate unified data and artificial intelligence driven insights for marketing orchestration, personalization, superior customer service, business analytics and GDPR compliance. 
+SkyPoint mission statement is “to organize customer data and make it accessible and useful.
+
+SkyPoint Customer Data Platform (CDP) ingests, unifies, organizes, customer data from multiple sources. Create and manage real-time customer profiles, segments, metrics and insights for marketing orchestration, personalization, customer service,  analytics and privacy compliance. 
 
 ## How Does It Work?
 
