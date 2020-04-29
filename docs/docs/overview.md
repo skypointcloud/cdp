@@ -2,7 +2,7 @@
 
 ## Terminologies Used in the Application
 
-- Tenant -> You can consider them as clients.
+- Tenants -> You can consider them as clients.
 
 - Instance -> You can consider them as subsidiaries of a single client.
 
