@@ -1,6 +1,6 @@
 - name: Overview
   href: overview.md
-- name: Signup/Login
+- name: Sign Up & Login
   items:
     - name: Signup
       href: signup.md
