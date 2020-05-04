@@ -20,12 +20,12 @@
 1. Once the verification is completed, you will be automatically taken to SkyPoint CDP dashboard.
 
 ### 4. Forgot Password
-1. If you forget password you can reset it by clicking on the **Forgot your Password** link.
-1. Enter your registered email id and click on **Send verification code**
-1. You will see a message **Verification code has been sent to your inbox. Please copy it to the input box below.**
-1. You will receive  averification code in your email.
-1. Enter the same verification code to the field available in the code verification code.
-1. Enter the code before the code expires.
+1. If you forget password, you can reset it by clicking the **Forgot your Password** link.
+1. Enter your registered email id and click on **Send verification code**.
+1. You will see a message, **Verification code has been sent to your inbox. Please copy it to the input box below**.
+1. You will receive a verification code in your email.
+1. Enter the same verification code to the field available for the code verification.
+1. Enter the code before the it expires.
 1. Once you click the verify button you will be taken to a page where you can change the password.
 1. Once you reset the password, you will be redirected to the login page.
 1. Enter the email id and updated password and click **Sign in**
