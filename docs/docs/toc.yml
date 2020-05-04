@@ -1,5 +1,11 @@
 - name: Overview
   href: overview.md
+- name: Sign Up & Login
+  items:
+    - name: Signup
+      href: signup.md
+    - name: Login
+      href: login.md
 - name: Data
   items:
     - name: Dataflows
