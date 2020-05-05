@@ -33,7 +33,7 @@
       href: audiences.md
     - name: Metrics
       href: metrics.md
-- name: Automation
+- name: Action
   items:
     - name: Orchestrations
       href: orchestrations.md
