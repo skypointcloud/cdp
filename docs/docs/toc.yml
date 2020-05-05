@@ -6,6 +6,10 @@
       href: signup.md
     - name: Login
       href: login.md
+- name: Home
+  items:
+    - name: Home
+      href: home.md
 - name: Data
   items:
     - name: Dataflows
