@@ -1,5 +1,7 @@
 # Overview
 
+The SkyPoint Customer Data Platform enables one-to-one marketing personalization. Learn how to unify and enrich your customer data, build audiences, create cross-channel journeys, and activate customer experiences.
+
 ## Terminologies Used in the Application
 
 - Tenants -> You can consider them as clients.
