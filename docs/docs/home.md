@@ -1,7 +1,7 @@
 # Home
 
 ###  Total Profiles
-     Displays the total number of profiles you have in your instance (Instance is a subsidiary of the client).
+   - Displays the total number of profiles you have in your instance (Instance is a subsidiary of the client).
 ###  Total Audience
      Total number of audiences created in current instance. (Audience is a group of profiles created for any specific purpose)
 ###  Total Metrics
