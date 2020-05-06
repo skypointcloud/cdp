@@ -1,6 +1,6 @@
 - name: Overview
   href: overview.md
-- name: Sign Up & Login
+- name: Getting Started 
   items:
     - name: Signup
       href: signup.md
@@ -26,9 +26,6 @@
       href: associations.md
     - name: Models
       href: models.md
-    - name: Export
-      href: export.md
-
 - name: Insights
   items:
     - name: Profiles
@@ -39,8 +36,8 @@
       href: metrics.md
 - name: Action
   items:
-    - name: Orchestrations
-      href: orchestrations.md
+    - name: Export
+      href: export.md
 - name: Settings
   items:
     - name: Platform
@@ -57,9 +54,13 @@
           href: activity-stream.md
     - name: Security
       href: security.md
-- name: GDPR
+- name: Application Development  
   items:
-    - name: Where an Organization's Customer Service Insights Data is Located
+    - name: APIs
+      href: api.md
+- name: Privacy Compliance 
+  items:
+    - name: Where an Organization's Data is Located
       href: data-location.md
     - name: Requests to Delete Personal Data
       href: gdpr-delete.md
@@ -67,5 +68,5 @@
       href: gdpr-discovery.md
     - name: Requests for Copies of Personal Data
       href: gdpr-export.md
-    - name: GDPR Compliance in Customer Service Insights
+    - name: GDPR Compliance 
       href: gdpr-summary.md
