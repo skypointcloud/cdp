@@ -18,9 +18,9 @@ Requests with a message-body use plain JSON to set or update resource states
 
 # Tips
 
-Here is a quick video on how to use JWT with Postman
+Here is a quick video on how to use JWT with Postman - https://www.youtube.com/watch?v=LKveAwao9HA
 
-https://www.youtube.com/watch?v=LKveAwao9HA
+How to generate JWT token using b2clogin - https://docs.microsoft.com/en-us/azure/active-directory-b2c/access-tokens
 
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview
 
