@@ -1,6 +1,6 @@
 # Getting Started With the SkyPoint API
 
-The SkyPoint API is a restful JSON API that includes:
+The SkyPoint API is a restful JSON API that includes. SkyPoint uses Microsoft Azue B2C services for authentication. 
 
 # Prerequisites
 
@@ -21,3 +21,7 @@ Requests with a message-body use plain JSON to set or update resource states
 Here is a quick video on how to use JWT with Postman
 
 https://www.youtube.com/watch?v=LKveAwao9HA
+
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview
+
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/tokens-overview
