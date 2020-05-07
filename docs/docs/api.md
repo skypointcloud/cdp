@@ -25,3 +25,5 @@ How to generate JWT token using b2clogin - https://docs.microsoft.com/en-us/azur
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview
 
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/tokens-overview
+
+https://www.youtube.com/watch?v=N7PQGJErXqs
