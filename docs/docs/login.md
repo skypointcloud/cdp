@@ -1,6 +1,6 @@
-# SkyPoint CDP Login Process
+#  Login Process
 
-## How to login to SkyPoint Cloud CDP
+## How to login to SkyPoint CDP
 
 ### 1. Using Email and Passowrd.
 1. Enter your registered **Email ID** and **Password** to the appropriate field.
@@ -14,8 +14,8 @@
 1. The credentials will be verified from SkyPoint CDP secured data resources.
 1. Once the verification is successful, you will be redirected to SkyPoint CDP dashboard.
 
-### 3. Single Sign-On
-1. Click on the **Single Sign-On** button.
+### 3. Azure Active Directory
+1. Click on the **Azure AD** button.
 1. You will be redirected to Microsoft authentication page to verify your credentials.
 1. Once the verification is completed, you will be automatically taken to SkyPoint CDP dashboard.
 
@@ -29,6 +29,6 @@
 1. Once you click the verify button you will be taken to a page where you can change the password.
 1. Once you reset the password, you will be redirected to the login page.
 1. Enter the email id and updated password and click **Sign in**
-1. You will be redirected to SkyPoint CDP Dashboard.
+1. You will be redirected to SkyPoint Dashboard.
 
 
