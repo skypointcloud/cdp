@@ -27,7 +27,7 @@ There are two approaches that are generally used for this purpose:
 
 < more content about ML approach - vector based approach>
 
-# How to use SkyPoint match process
+# How to use the Stitch (Map, Match, Merge) process
 
 1. Map:
 
