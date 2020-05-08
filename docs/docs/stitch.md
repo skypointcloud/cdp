@@ -1,8 +1,6 @@
 # Data
 
-## Stitch
-
-Overview
+## Stitch Overview
 
 How SkyPoint’s approach to identity resolution produces rich, accurate, and precise customer 360 profiles. 
 
