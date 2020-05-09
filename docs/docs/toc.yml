@@ -12,14 +12,14 @@
       href: home.md
 - name: Data
   items:
-    - name: Dataflows
-      href: dataflows.md
     - name: Connectors
       items:
         - name: Overview
           href: connectors.md
        -  name: Shopify
-          href: shopify.md   
+          href: shopify.md  
+    - name: Dataflows
+      href: dataflows.md 
     - name: Channels
       href: channels.md
     - name: Entities
