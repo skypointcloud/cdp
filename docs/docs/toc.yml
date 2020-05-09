@@ -14,6 +14,8 @@
   items:
     - name: Dataflows
       href: dataflows.md
+    - name: Connectors
+      href: connectors.md
     - name: Channels
       href: channels.md
     - name: Entities
