@@ -1,6 +1,4 @@
-# Connectors
-
-## Connector Overview
+# Overview
 
 SkyPoint has the ability to ingest data from any data source including pre-built connectors with popular applications (e.g. Shopify, Salesforce etc.), web activity through our JavaScript tag as well as custom data sources (e.g. Amazon S3, Azure Blob etc). 
 
