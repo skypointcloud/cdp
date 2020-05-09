@@ -2,9 +2,9 @@
 
 In order to allow SkyPoint access to your Shopify account, you'll need:
 
-Shop URL
-API Key
-Password
+1. Shop URL
+1. API Key
+1. Password
 
 To generate a API key + password combination, follow the [Private Apps](https://shopify.dev/tutorials/authenticate-a-private-app-with-shopify-admin "Shopify Private Apps") instructions on Shopify. 
 
