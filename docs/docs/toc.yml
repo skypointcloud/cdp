@@ -16,7 +16,7 @@
       items:
         - name: Overview
           href: connectors.md
-       -  name: Shopify
+        - name: Shopify
           href: shopify.md  
     - name: Dataflows
       href: dataflows.md 
