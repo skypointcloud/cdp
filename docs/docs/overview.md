@@ -10,9 +10,9 @@ SkyPoint is proud to be a Microsoft Gold Partner and Microsoft Azure Cloud Marke
 
 - Tenants -> You can consider them as clients.
 
-- Instance -> You can consider them as subsidiaries of a single client.
+- Instances -> You can consider them as subsidiaries of a single client.
 
-- Dataflows -> It allows you to ingest data from all your sources, transform and load into the data lake in Common Data Model (CDM) schema. You can club common data sources into single dataflow.
+- Dataflows (Import) -> It allows you to ingest data from all your sources, transform and load into the data lake in Common Data Model (CDM) schema. You can club common data sources into single dataflow.
 
 - Channels -> They are the visitor touchpoints that you want to monitor with SkyPointCloud.
 
@@ -34,13 +34,11 @@ SkyPoint is proud to be a Microsoft Gold Partner and Microsoft Azure Cloud Marke
 
 - Models -> It integrates your artificial intelligence and machine learning models deployed as web service endpoints to utilizing unified entities (e.g. predictions on unified customer profile and activities). 
 
-- Export -> It exports the entities to a cloud storage account.
+- Dataflows (Export) -> It exports the entities to several destinations including storage accounts and applications. 
 
 - Audiences -> It is a group of profiles characterized by a defined set of attributes based filters. You can schedule audiences to be auto-updated every day or update them manually for onetime use.
 
 - Metrics -> It creates parameters to check the different insights to see if you are on track.
-
-- Orchestrations ->
 
 - Platform -> It consists of notifications, schedule, instance, product, activity stream.
 
