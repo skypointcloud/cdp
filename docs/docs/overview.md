@@ -1,6 +1,10 @@
 # Overview
 
-The SkyPoint Customer Data Platform enables one-to-one marketing personalization. Learn how to unify and enrich your customer data, build audiences, create cross-channel journeys, and activate customer experiences.
+Customer data makes up the foundation of an organization. It tells who’s buying, what they want, and how best to reach them. But for many businesses, customer data is siloed across systems, impossible to unify, and not actionable across the organization.
+
+We built SkyPoint Customer Data Platform (CDP) from the ground up to solve this problem by unifying all your customer data at scale, delivering a complete customer 360 and predictive insights.
+
+SkyPoint is proud to be a Microsoft Gold Partner and Microsoft Azure Cloud Marketplace SaaS platform. 
 
 ## Terminologies Used in the Application
 
