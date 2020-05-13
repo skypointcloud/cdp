@@ -17,7 +17,10 @@ Dataflow let you integrate your data from different sources.
       - **NoSQL**
       - **Services and Apps**
 
-1. Enter Connector specific access information (e.g. API keys etc.) 
+1. You will be prompted to enter the following details.
+    - **Amazon S3**
+        - **Access key ID** (Check with Amazon S3 source credentials.)
+        - **Secret Access Key**
 
 1. Click on Connect
 
