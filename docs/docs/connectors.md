@@ -53,6 +53,49 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
         - *Teradata*
         - *Vertica*
       - File
+        - *Amazon S3*
+        - *FTP*
+        - *File System*
+        - *Google Cloud Storage (S3 API)*
+        - *HDFS*
+        - *HTTP*
+        - *SFTP*
       - Generic Protocol
+        - *ODBC*
+        - *OData*
+        - *REST*
       - NoSQL
+        - *Cassandra*
+        - *Couchbase*
+        - *MongoDB*
       - Services and Apps
+        - *Amazon Marketplace Web Service*
+        - *Azhure Data Explorer (Kusto)*
+        - *Campaign Monitor*
+        - *Common Data Service for Apps*
+        - *Concur*
+        - *Dynamics 365*
+        - *Dynamics AX*
+        - *Dynamics CRM*
+        - *HubSpot*
+        - *Jira*
+        - *Magento*
+        - *Marketo*
+        - *Office 365*
+        - *Oracle Eloqua*
+        - *Oracle Responsys*
+        - *Oracle Service Cloud*
+        - *PayPal*
+        - *QuickBooks*
+        - *REST*
+        - SAP Cloud for Customer*
+        - *SAP ECC*
+        - *Salesforce*
+        - *Salesforce Marketing Cloud*
+        - *Salesforce Service Cloud*
+        - *Service Now*
+        - *Shopify*
+        - *Square*
+        - *Web Table*
+        - *Xero*
+        - *Zoho*
