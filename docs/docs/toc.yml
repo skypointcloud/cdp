@@ -18,6 +18,8 @@
           href: connectors.md
         - name: Shopify
           href: shopify.md  
+        - name: Salesforce
+          href: salesforce.md  
     - name: Dataflows
       href: dataflows.md 
     - name: Channels
