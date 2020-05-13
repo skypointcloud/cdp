@@ -34,11 +34,11 @@ SkyPoint is proud to be a Microsoft Gold Partner and Microsoft Azure Cloud Marke
 
 - Models -> It integrates your artificial intelligence and machine learning models deployed as web service endpoints to utilizing unified entities (e.g. predictions on unified customer profile and activities). 
 
-- Dataflows (Export) -> It exports the entities to several destinations including storage accounts and applications. 
-
 - Audiences -> It is a group of profiles characterized by a defined set of attributes based filters. You can schedule audiences to be auto-updated every day or update them manually for onetime use.
 
 - Metrics -> It creates parameters to check the different insights to see if you are on track.
+
+- Dataflows (Export) -> It exports the entities to several destinations including storage accounts and applications. 
 
 - Platform -> It consists of notifications, schedule, instance, product, activity stream.
 
