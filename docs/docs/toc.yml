@@ -22,7 +22,7 @@
           href: salesforce.md  
         - name: Campaign Monitor
           href: campaignmonitor.md
-        - name: AmazonS3
+        - name: Amazon S3
           href: amazonsthree.md
     - name: Dataflows
       href: dataflows.md 
