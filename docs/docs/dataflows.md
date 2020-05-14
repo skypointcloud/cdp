@@ -17,10 +17,14 @@ Dataflow let you integrate your data from different sources.
       - **NoSQL**
       - **Services and Apps**
 
-1. You will be prompted to enter the following details.
+1. You will be prompted to enter the following details with respect to the connectors selected.
     - **Amazon S3**
         - **Access key ID** (Check with Amazon S3 source credentials.)
         - **Secret Access Key**
+        **S3 Bucket**<br>
+        (Select the folder you want download the data from the source)<br>
+        Click **Save**<br>
+        Once you selcet the S3 Bucket you will see a notification *Data loaded successfuly*
 
 1. Click on Connect
 
