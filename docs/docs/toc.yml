@@ -22,8 +22,8 @@
           href: salesforce.md  
         - name: Campaign Monitor
           href: campaignmonitor.md
-        - name: Amazon S3
-          href: amazons3.md
+        - name: AmazonS3
+          href: amazonsthree.md
     - name: Dataflows
       href: dataflows.md 
     - name: Channels
