@@ -1,6 +1,12 @@
-You will need the username and password of your Campaign Monitor account.
+# Campaign Monitor
+In order to allow SkyPoint access to your **Campaign Monitor** account, you'll need the following details:
+1. Enter the **Client ID** (Check with Campaign Monitor source credentials.)
+1. Enter **API Key**
+1. Click **Connect**
+    - Once you click the Connect button you will see a notification *Data loaded successfuly*
+    - You will see the list of data imported from the source with headers; **Name**, **Type**, **Entity**.
 
-Import 
+## Import 
 
 We import CM data into two consolidated entities
 
