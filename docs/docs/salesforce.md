@@ -7,13 +7,13 @@ In order to allow SkyPoint access to your Salesforce account, you need to provid
   
   After entering all the required details, Click Connect: 
   
-    •	Once you click the Connect button, it will validate your credentials, if it is successful you will see a notification Data loaded       successfully else it will show error that login has failed.
+   •	Once you click the Connect button, it will validate your credentials, if it is successful you will see a notification Data loaded successfully else it will show error that login has failed.
 
-    •	 Upon successful connection, it will show the list of data imported from the source with headers, Name, Type, Entity.
+   •	 Upon successful connection, it will show the list of data imported from the source with headers, Name, Type, Entity.
 
-    •	Select the entities you want and save the data flow.
+   •	Select the entities you want and save the data flow.
 
-    •	You can run the data flow as and when required by choosing the run action from dataflow screen.
+   •	You can run the data flow as and when required by choosing the run action from dataflow screen.
         
 
 The following properties are supported for the Salesforce connector service.
