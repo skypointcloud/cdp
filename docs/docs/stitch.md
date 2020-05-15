@@ -6,17 +6,21 @@ How SkyPoint’s approach to identity resolution produces rich, accurate, and pr
 
 There are two phases in the process of building customer 360 profiles. 
 
-Phase I: Data preparation - all of the initial work needed to get data into a Common Data Model (CDM) environment and prepare it for the matching process.
+# Phase I: Data preparation 
+
+All of the initial work needed to get data into a Common Data Model (CDM) environment and prepare it for the matching process.
 
 In this process, we ingest data from multiple sources and then the first phase is to map that data columns with their semantic labels. These semantic labels help us to match the data semantically through the more advanced machine learning techniques.
 
-Phase II: Identity resolution, where records and identities are assigned to unique individuals.
+# Phase II: Identity resolution
+
+The records and identities are assigned to unique individuals.
 
 The fundamental task that identity resolution is trying to accomplish is to identify the same individual person within and across all data sources that contain customer information. 
 
 There are two approaches that are generally used for this purpose:
 
-1. Unique Identifier approach and the Static Rule approach. 
+# 1. Unique Identifier approach and the Static Rule approach. 
 
 In this approach, user has to manually select the rules based on which the algorithm will be applied. Here user can also select the match precision, for example exact match or high/medium/low.
    1. Exact Match
@@ -30,10 +34,13 @@ In this approach, user has to manually select the rules based on which the algor
       - While choosing the desired algorithms, user can apply more than 1 alorithm with logical AND/OR fashion between them to improve their search results
       - Note: The selection of Levenshtein algorithm might increase the Match run time significantly
 
-2. Machine Learning approach 
+# 2. Machine Learning approach 
 
+In this approach, we are trying to find the records match without any human involvement. 
 
-In this approach, we are trying to find the records match without any human involvement. In this approach, user do not need to create any manual rule and rather alorithm will itself figure out (based on the semantic labels) and ML, whether 2 records should be considered a match or not. For example, a person whose name is Allison, lives in xxxxxx zip code, and has interest in baseball, and go to yyyyy gym at exactly 7 AM everyday. Is same as a person named Allision, lives in xxxxxx, has interest in baseball, and studies economics.
+In this approach, user do not need to create any manual rule and rather alorithm will itself figure out (based on the semantic labels) and ML, whether 2 records should be considered a match or not. 
+
+For example, a person whose name is Allison, lives in XXXXX zip code, and has interest in baseball, and go to yyyyy gym at exactly 7 AM everyday. Is same as a person named Allision, lives in XXXXX, has interest in baseball, and studies economics.
 
 This is a work in progress approach. More on this later. But the high level overview is to based on semantic labels and their importance degree, representation in multi-dimention, yields the useful results.
 
