@@ -7,27 +7,32 @@ In order to allow SkyPoint access to your Salesforce account, you need to provid
   
   After entering all the required details, Click Connect: 
   
-•	Once you click the Connect button, it will validate your credentials, if it is successful you will see a notification Data loaded successfully else it will show error that login has failed.
+    •	Once you click the Connect button, it will validate your credentials, if it is successful you will see a notification Data loaded       successfully else it will show error that login has failed.
 
-•	 Upon successful connection, it will show the list of data imported from the source with headers, Name, Type, Entity.
+    •	 Upon successful connection, it will show the list of data imported from the source with headers, Name, Type, Entity.
 
-•	Select the entities you want and save the data flow.
+    •	Select the entities you want and save the data flow.
 
-•	You can run the data flow as and when required by choosing the run action from dataflow screen.
+    •	You can run the data flow as and when required by choosing the run action from dataflow screen.
         
 
 The following properties are supported for the Salesforce connector service.
 
-Environment URL specify the URL of the Salesforce instance.
-•	Default is "https://login.salesforce.com".
-•	To copy data from sandbox, specify "https://test.salesforce.com".
-•	To copy data from custom domain, specify, for example, "https://[domain].my.salesforce.com".	
+1. Environment URL specify the URL of the Salesforce instance.
 
-Username specify a username for the user account.	
+    •	Default is "https://login.salesforce.com".
 
-Password specify a password for the user account.
+    •	To copy data from sandbox, specify "https://test.salesforce.com".
 
-Security Token specify a security token for the user account.
+    •	To copy data from custom domain, specify, for example, "https://[domain].my.salesforce.com".	
+
+
+2. Username specify a username for the user account.	
+
+3. Password specify a password for the user account.
+
+4. Security Token specify a security token for the user account.
+
 
 For instructions on how to get and reset a security token, see link below. 
 
