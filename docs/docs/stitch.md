@@ -32,8 +32,6 @@ In this approach, user has to manually select the rules based on which the algor
 
 2. Machine Learning approach 
 
--- Semantic Tagging 
--- Data clean up 
 
 In this approach, we are trying to find the records match without any human involvement. In this approach, user do not need to create any manual rule and rather alorithm will itself figure out (based on the semantic labels) and ML, whether 2 records should be considered a match or not. For example, a person whose name is Allison, lives in xxxxxx zip code, and has interest in baseball, and go to yyyyy gym at exactly 7 AM everyday. Is same as a person named Allision, lives in xxxxxx, has interest in baseball, and studies economics.
 
