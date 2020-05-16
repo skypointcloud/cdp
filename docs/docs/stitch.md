@@ -4,6 +4,8 @@
 
 The problem with combining customer data from a disparate set of data sources is that rarely is there a common, unique key that links all records that belongs to an entity. This is why identity resolution is required, as it provides a probabilistic or machine learning approach to linking entities from disparate data sources together. 
 
+Graph-based entity resolution algorithms have emerged as a highly effective approach including utilization of Apache Spark & GraphX. The technique will exhibit an example where efficacy can be achieved based on simple heuristics, and at the same time map a path to a machine-learning assisted entity resolution engine with a powerful knowledge graph at its center.
+
 SkyPoint’s approach to identity resolution produces rich, accurate, and precise customer 360 profiles. There are two phases in the process of building customer 360 profiles. 
 
 # Phase I: Data preparation 
