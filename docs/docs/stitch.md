@@ -2,9 +2,9 @@
 
 ## Stitch Overview
 
-How SkyPoint’s approach to identity resolution produces rich, accurate, and precise customer 360 profiles. 
+The problem with combining customer data from a disparate set of data sources is that rarely is there a common, unique key that links all records that belongs to an entity. This is why identity resolution is required, as it provides a probabilistic or machine learning approach to linking entities from disparate data sources together. 
 
-There are two phases in the process of building customer 360 profiles. 
+SkyPoint’s approach to identity resolution produces rich, accurate, and precise customer 360 profiles. There are two phases in the process of building customer 360 profiles. 
 
 # Phase I: Data preparation 
 
@@ -20,7 +20,7 @@ The fundamental task that identity resolution is trying to accomplish is to iden
 
 There are two approaches that are generally used for this purpose:
 
-# 1. Unique Identifier approach and the Static Rule approach. 
+## 1. Unique Identifier approach and the Static Rule approach. 
 
 In this approach, user has to manually select the rules based on which the algorithm will be applied. Here user can also select the match precision, for example exact match or high/medium/low.
    1. Exact Match
@@ -34,7 +34,7 @@ In this approach, user has to manually select the rules based on which the algor
       - While choosing the desired algorithms, user can apply more than 1 alorithm with logical AND/OR fashion between them to improve their search results
       - Note: The selection of Levenshtein algorithm might increase the Match run time significantly
 
-# 2. Machine Learning approach 
+## 2. Machine Learning approach 
 
 In this approach, we are trying to find the records match without any human involvement. 
 
@@ -44,7 +44,7 @@ For example, a person whose name is Allison, lives in XXXXX zip code, and has in
 
 This is a work in progress approach. More on this later. But the high level overview is to based on semantic labels and their importance degree, representation in multi-dimention, yields the useful results.
 
-# How to use the Stitch (Map, Match, Merge) process
+## How to use the Stitch (Map, Match, Merge) process
 
 1. Map:
 
