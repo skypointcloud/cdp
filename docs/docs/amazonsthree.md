@@ -18,8 +18,7 @@ In order to allow SkyPoint access to your **Amazon S3** account, you'll need the
 - **Advanced Settings**
     <br>When you click on the **Advanced Settings** link, you will see a pop-up window with certain additional information. All these informations are key factors of the source data and how it is organized. If you are getting any errors, please check with the data source for these additional information.
     - **Compression Type**<br>
-    Compression type i
-    -  **Advanced Settings*s the method that is used for compressing the details from the source, Amazon S3. (To identify what is the compression methods that's used, please check with your credentials.)
+    Compression type in **Advanced Settings** is the method that is used for compressing the details from the source, Amazon S3. (To identify what is the compression methods that's used, please check with your credentials.)
     - **Row Delimiter**<br>
     The data stream will have a seperator that identify the boundaries of it's flow. If there were any different separator is used in it, that information need to be changed to get more accuracy in data ingestion.
     - **Encoding**<br>
