@@ -26,8 +26,8 @@ In order to allow SkyPoint access to your **Amazon S3** account, you'll need the
     Since the data is coming in data stream there is always a kind of encoding used for decyphering it. If any seperate value of mentioned in the encoding process, you may need to select the appropriate encoding. Default encoding is **UTF-8**.
     - **Escape Character**<br>
     An escape character is a particular case of metacharacters. Which given an identification of sequence start or end. You can manually select the **Escape Character** from the dropdown.
-        - (/) **Forward Slash**
-        - (\) **Backshlash**
+        - \"/" **Forward Slash**
+        - "\\" **Backshlash**
         - **No Escape Character**
     - **Quote Character**<br>
     There are three **Quote Character** types are mentioned in the advanced **Quote Character** dropdown.
