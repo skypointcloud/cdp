@@ -20,6 +20,8 @@
           href: shopify.md  
         - name: Salesforce
           href: salesforce.md  
+        - name: Salesforce Marketing Cloud
+          href: salesforcemarketingcloud.md  
         - name: Campaign Monitor
           href: campaignmonitor.md
         - name: Amazon S3
