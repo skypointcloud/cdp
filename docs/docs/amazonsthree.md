@@ -18,7 +18,8 @@ In order to allow SkyPoint access to your **Amazon S3** account, you'll need the
         **Delimiter** is the key that is used for setting up a boundary or a separator of veriables in the data imported. Currently the available seperators are, *Comma (,)*, *Semicolon (;)*, *Pipe (|)*, *Tab (\t)*, *Start of Heading (\u0001)* and *No Delimiter*".
         - **First Row as Header**<br>
         This is a checkbox, which call the first row as Header for the table sheet we are importing. The system will automatically collect the data according to the Header Contents.
-        - **Advacned Settings**
+        - **Advacned Settings**<br>
+        Advanced Settings will allow you to fine tune the import process with minute details.
 - **Advanced Settings**
     <br>When you click on the **Advanced Settings** link, you will see a pop-up window with certain additional information. All these informations are key factors of the source data and how it is organized. If you are getting any errors, please check with the data source for these additional information.
     - **Compression Type**<br>
@@ -37,7 +38,16 @@ In order to allow SkyPoint access to your **Amazon S3** account, you'll need the
         - (") **Double Quote**
         - (') **Single Quote**
         - **No Quote Character**
-- 
+- **Action** Button.<br>
+Action button includes specific actions on the imported lists.
+    - **Show All**<br>
+    When you select **Show All** dropdown, the list will show all the files available in the folder.
+    - Show Selected**<br>
+    Once you click on the **Show Selected** option, the list will show only the selected files from all of the data in the folder.
+    - **Select All**<br>
+    With one click you can **Select All** the files in that list imported form selceted folder.
+    - **Clear All**<br>
+    If you don't want to get all the folders selected, with just one click of the **Clear All** button all the selections will be removed form the selection.
       
     
 
