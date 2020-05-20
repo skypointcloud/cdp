@@ -9,7 +9,7 @@ Perform the following steps to retrieve the Client ID and Client Secret for a ne
 
 1.  Log in to Salesforce Marketing Cloud.
 
-2.  Go to **Setup****Apps****Installed Packages**.
+2.  Go to **Setup >> Apps >> Installed Packages**
 
 3.  Click **New** to create a new package.
 
@@ -43,7 +43,7 @@ Perform the following steps to retrieve the Client ID and Client Secret for a ne
 
 Perform the following steps to retrieve the Client ID and Client Secret for an existing package:
 
-1.  Go to **Setup****Apps****Installed Packages**.
+1.  Go to **Setup >> Apps >> Installed Packages**
 
     
 
