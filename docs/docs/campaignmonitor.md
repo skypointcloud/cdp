@@ -11,6 +11,16 @@ In order to allow SkyPoint access to your **Campaign Monitor** account, you'll n
     - Once you click the Connect button you will see a notification *Data loaded successfuly*
     - You will see the list of data imported from the source with headers; **Name**, **Type**, **Entity**.
 
+- **Action** Button.<br>
+Action button includes specific actions on the imported lists.
+    - **Show All**<br>
+    When you select **Show All** dropdown, the list will show all the files available in the folder.
+    - **Show Selected**<br>
+    Once you click on the **Show Selected** option, the list will show only the selected files from all of the data in the folder.
+    - **Select All**<br>
+    With one click you can **Select All** the files in that list imported form selceted folder.
+    - **Clear All**<br>
+    If you don't want to get all the folders selected, with just one click of the **Clear All** button all the selections will be removed form the selection.
 
 
 ## Import 
