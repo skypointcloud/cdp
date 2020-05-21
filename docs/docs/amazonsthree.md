@@ -2,14 +2,14 @@
 
 Dataflow let you integrate your data from different sources.
 
-## Step 01
+## Step 01 - Add Dataflow
 
 - Click on **Add Dataflow** on the right top corner of the screen.
     - Enter a Name. (Name starts with a letter and only **Letters** and **Numbers** are allowed. No Spcaes)
     - Click **Next**.
     - You will be directed to choose a **Connector**.
 
-## Step 02
+## Step 02 - Access Source Data
 ### You will be prompted to enter the following details with respect to the connectors selected.<br>
 In order to allow SkyPoint access to your **Amazon S3** account, you'll need the following details:
 - **Access key ID** (Check with Amazon S3 source credentials.)
@@ -50,14 +50,16 @@ In order to allow SkyPoint access to your **Amazon S3** account, you'll need the
         - (") **Double Quote**
         - (') **Single Quote**
         - **No Quote Character**
-- **Action** Button.<br>
+## Step 03 - **Action** Button.
 Action button includes specific actions on the imported lists.
-    - **Show All**<br>
-    When you select **Show All** dropdown, the list will show all the files available in the folder.
-    - **Show Selected**<br>
-    Once you click on the **Show Selected** option, the list will show only the selected files from all of the data in the folder.
-    - **Select All**<br>
-    With one click you can **Select All** the files in that list imported form selceted folder.
-    - **Clear All**<br>
-    If you don't want to get all the folders selected, with just one click of the **Clear All** button all the selections will be removed form the selection.
-- Click **Save**
+- **Show All**<br>
+When you select **Show All** dropdown, the list will show all the files available in the folder.
+- **Show Selected**<br>
+Once you click on the **Show Selected** option, the list will show only the selected files from all of the data in the folder.
+- **Select All**<br>
+With one click you can **Select All** the files in that list imported form selceted folder.
+- **Clear All**<br>
+If you don't want to get all the folders selected, with just one click of the **Clear All** button all the selections will be removed form the selection.
+## Step 04 - Save
+- Click **Save** Button.
+    - You will be taken to the Dataflow page.
