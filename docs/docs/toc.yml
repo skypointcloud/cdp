@@ -25,7 +25,9 @@
         - name: Campaign Monitor
           href: campaignmonitor.md
         - name: Amazon S3
-          href: amazonsthree.md
+          href: amazonsthree.md          
+        - name: Azure Blob Storage
+          href: azure-blob-storage.md
     - name: Dataflows
       href: dataflows.md 
     - name: Channels
