@@ -10,8 +10,7 @@ Dataflow let you integrate your data from different sources.
     - You will be directed to choose a **Connector**.
 
 ## Step 02 - Access Source Data
-#### You will be prompted to enter the following details with respect to the connectors selected.<br>
-In order to allow SkyPoint access to your **Amazon S3** account, you'll need the following details:
+**In order to allow SkyPoint access to your _Amazon S3_ account, you'll need the following details:**
 - **Access key ID** (Check with Amazon S3 source credentials.)
 - **Secret Access Key**
 - **S3 Bucket**
