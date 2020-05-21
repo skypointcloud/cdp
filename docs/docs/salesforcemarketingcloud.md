@@ -19,7 +19,7 @@ You need to provide the following details:
 
    * You can run the data flow as and when required by choosing the run action from dataflow screen.
 
-### Step 1: Obtain Client ID and Client Secret
+### Obtain Client ID and Client Secret from Salesforce Marketing Cloud
 
 Perform the following steps to retrieve the Client ID and Client Secret for a new package:
 
