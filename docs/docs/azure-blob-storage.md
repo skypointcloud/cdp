@@ -5,7 +5,7 @@ In order to allow SkyPoint access to your **Azure** account, you'll need the fol
 
 
 1. **Storage account name**
-1. **Account key **
+1. **Account key**
 1. **Storage path**
     - Select the folder you want download the data from the source.
     - Click **Save**.
