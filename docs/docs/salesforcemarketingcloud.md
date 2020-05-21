@@ -1,7 +1,23 @@
 
 # Salesforce Marketing Cloud Setup Guide
 
-Follow our setup guide to connect Salesforce Marketing Cloud to SkyPoint.
+Follow our setup guide to connect **Salesforce Marketing Cloud**  to **SkyPoint**.
+
+You need to provide the following details:
+
+  1. **Client Id**
+  1. **Client Secret**
+  1. **Authentication URL**
+  
+  Once you enter all the required details, **Click Connect**: 
+  
+   * Upon clicking the Connect button, it will validate your credentials, if it is successful you will see a notification **Data loaded successfully** else it will show the error that login has failed.
+
+   * Upon successful connection, it will show the list of data imported from the source with headers, Name, Type, Entity etc.
+
+   * Select the entities you want and save the data flow.
+
+   * You can run the data flow as and when required by choosing the run action from dataflow screen.
 
 ### Step 1: Obtain Client ID and Client Secret
 
