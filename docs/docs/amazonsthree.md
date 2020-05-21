@@ -1,8 +1,20 @@
 # Amazon S3
+
+Dataflow let you integrate your data from different sources.
+
+## Step 01
+
+- Click on **Add Dataflow** on the right top corner of the screen.
+    - Enter a Name. (Name starts with a letter and only **Letters** and **Numbers** are allowed. No Spcaes)
+    - Click **Next**.
+    - You will be directed to choose a **Connector**.
+
+## Step 02
+### You will be prompted to enter the following details with respect to the connectors selected.<br>
 In order to allow SkyPoint access to your **Amazon S3** account, you'll need the following details:
-1. **Access key ID** (Check with Amazon S3 source credentials.)
-1. **Secret Access Key**
-1. **S3 Bucket**
+- **Access key ID** (Check with Amazon S3 source credentials.)
+- **Secret Access Key**
+- **S3 Bucket**
     - Select the folder you want download the data from the source.
     - Click **Save**.
     - Once you select the **S3 Bucket** you will see a notification *Data loaded successfuly*.
@@ -48,6 +60,4 @@ Action button includes specific actions on the imported lists.
     With one click you can **Select All** the files in that list imported form selceted folder.
     - **Clear All**<br>
     If you don't want to get all the folders selected, with just one click of the **Clear All** button all the selections will be removed form the selection.
-      
-    
-
+- Click **Save**
