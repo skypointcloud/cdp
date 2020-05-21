@@ -49,7 +49,7 @@ Dataflow let you integrate your data from different sources.
         - (") **Double Quote**
         - (') **Single Quote**
         - **No Quote Character**
-## Step 03 - **Action** Button.
+## Step 03 - *Action* Button.
 Action button includes specific actions on the imported lists.
 - **Show All**<br>
 When you select **Show All** dropdown, the list will show all the files available in the folder.
