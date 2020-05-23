@@ -8,7 +8,7 @@ We built SkyPoint Customer Data Platform (CDP) from the ground up to solve this 
 
 SkyPoint CDP is a realcdp.org complaint SaaS product. It provides following key capabilities:
 
-- Ingest data from any source
+- Ingest (Import) data from any source
 - Capture full detail of ingested data
 - Store ingested data indefinitely (subject to privacy constraints)
 - Create unified (Stitch and Timelines) profiles of identified individuals/customers/consumers/leads/prospects/organizations etc. (360 degree-view)
