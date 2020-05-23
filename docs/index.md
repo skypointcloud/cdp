@@ -18,7 +18,7 @@ SkyPoint CDP is a realcdp.org complaint SaaS product. It provides following key 
 
 ## Sources (Import)
 
-SkyPoint imports data from Sources.
+SkyPoint imports data from Sources. Imported data is transformed into Common Data Model (CDM) entities. 
 
 ## Profile (Stitch)
 
@@ -30,4 +30,4 @@ The SkyPoint stitch process matches and merges the complete history of each cust
 
 ## Destinations (Export)
 
-Destinations receive (export or activate) data from SkyPoint.
+Destinations receive (export or activate) data from SkyPoint. Any entities or a collection of entities can be exported including source entities and SkyPoint generated entities such as Profile, Timelines, Audience, Metrics etc. 
