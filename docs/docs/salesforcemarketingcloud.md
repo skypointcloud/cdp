@@ -45,8 +45,7 @@ Perform the following steps to retrieve the Client ID and Client Secret for a ne
 
 10.  Select the following permissions for the Server-to-Server properties:
 
-> These are the minimum permissions required to use Salesforce Marketing Cloud Connector.
-> For both import and export integration workflows of SkyPoint and Salesforce Marketing Cloud, client keys will need the following access permissions:    
+> For both import and export integrations workflows of SkyPoint and Salesforce Marketing Cloud, client keys will need the following access permissions:    
 
 |Workflows  |Permissions  |
 |---------|---------|
