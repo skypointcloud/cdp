@@ -57,6 +57,7 @@ Perform the following steps to retrieve the Client ID and Client Secret for a ne
 |Automation - Journeys   | Read, Write |
 |Contacts - Audiences   | Read, Write |
 |Channels - Email  | Read, Write |
+|Marketing Cloud Connect  | Read, Write |
     
 11.  Click **Save**.
 
