@@ -45,23 +45,19 @@ Perform the following steps to retrieve the Client ID and Client Secret for a ne
 
 10.  Select the following permissions for the Server-to-Server properties:
 
-    -   List and Subscribers - Read, Write
-
-    -   Marketing Cloud Connect - Read, Write
-
-    -   Data Extensions - Read, Write
-
 > These are the minimum permissions required to use Salesforce Marketing Cloud Connector.
 > For both import and export integration workflows of SkyPoint and Salesforce Marketing Cloud, client keys will need the following access permissions:    
 
 |Status  |Description  |
 |---------|---------|
-|Available   |Data source was successfully ingested if a date and time are shown. Or, data source doesn't need to be ingested, if no date and time are shown.          |
-|Needs entities   |The data source has no data ingested yet.         |
-|Refreshing    |Data ingestion is in progress. You can cancel this operation by selecting **Stop refreshing** in the **Actions** column. Stopping the refresh of a data source will revert it to its last refresh state.       |
-|Unable to refresh     |Data ingestion ran into errors. Select the **See details** link to review the errors within 24 hours of the time of failure.         |
+|Contacts - List and Subscribers   | Read, Write |
+|Data - Data Extensions   | Read, Write |
+|Data - Tracking Events   | Read, Write |
+|Provisioning - Accounts   | Read, Write |
+|Automation - Journeys   | Read, Write |
+|Contacts - Audiences   | Read, Write |
+|Channels - Email  | Read, Write |
     
-
 11.  Click **Save**.
 
     The Components section displays the Client ID and Client Secret for the package.    
