@@ -51,7 +51,26 @@ Perform the following steps to retrieve the Client ID and Client Secret for a ne
 
     -   Data Extensions - Read, Write
 
-    These are the minimum permissions required to use Salesforce Marketing Cloud Connector.
+    These are the minimum permissions required to use Salesforce Marketing Cloud Connector. For both import and export integration workflows of SkyPoint and Salesforce Marketing Cloud, client keys will need the following access permissions:
+
+| Workflows | Workflow Type | Read | Write |
+
+| --- | --- | --- | --- |
+
+| Contacts - List and Subscribers | All | x | x |
+
+| Data - Data Extensions | All | x | x |
+
+| Data - Tracking Events | All | x | x |
+
+| Provisioning - Accounts | All | x |  |
+
+| Automation - Journeys | Triggered Journey | x | x |
+
+| Contacts - Audiences | Triggered Journey | x | x |
+
+| Channels - Email | Orchestration | x |  |
+
 
 11.  Click **Save**.
 
