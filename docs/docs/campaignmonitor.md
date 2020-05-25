@@ -24,12 +24,23 @@ Select the _Check Box_ if you want initiate the following processes on scheduled
         The file name will be the name of file which exist in the source of **Amazon S3**.
         - **Type**<br>
         **Entity Name** is the unique name that is created for the data collected from the source.
-        
 
-1. Click **Connect**
-    - Once you click the Connect button you will see a notification *Data loaded successfuly*
-    - You will see the list of data imported from the source with headers; **Name**, **Type**, **Entity**.
+## Step 03 - *Action* Button.
+Action button includes specific actions on the imported lists.
+- **Show All**<br>
+When you select **Show All** dropdown, the list will show all the files available in the folder.
+- **Show Selected**<br>
+Once you click on the **Show Selected** option, the list will show only the selected files from all of the data in the folder.
+- **Select All**<br>
+With one click you can **Select All** the files in that list imported form selceted folder.
+- **Clear All**<br>
+If you don't want to get all the folders selected, with just one click of the **Clear All** button all the selections will be removed form the selection.
 
+## Step 04 - Save
+- Click **Save** Button.
+    - You will be taken to the Dataflow page.
+    
+    
 - **Action** Button.<br>
 Action button includes specific actions on the imported lists.
     - **Show All**<br>
@@ -42,14 +53,8 @@ Action button includes specific actions on the imported lists.
     If you don't want to get all the folders selected, with just one click of the **Clear All** button all the selections will be removed form the selection.
 
 
-## Import 
 
-We import CM data into two consolidated entities
-
-1. CM-Lists
-1. CM-Campaigns 
-
-Export
+###Export
 
 SkyPoint allows you to export audiences as CM lists for targetted marketing 
 
