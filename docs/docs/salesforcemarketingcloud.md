@@ -13,17 +13,17 @@ You need to provide the following details:
   
    * Upon clicking the Connect button, it will validate your credentials, if it is successful you will see a notification **Data loaded successfully** else it will show the error that login has failed.
 
-   * Upon successful connection, it will show the list of data imported from the source with headers, Name, Type, Entity etc.
+   * Upon successful connection, it will show the names of all **Subscriber Lists** and **Campaigns** imported from the source with headers like Name, Type, Entity Name etc.
 
-   * Select the entities you want and save the data flow.
+   * Select the **Subscriber Lists** and **Campaigns** you want and save the data flow.
 
-   * You can run the data flow as and when required by choosing the run action from dataflow screen.
+   * You can **Run** the data flow as and when required by choosing the **Run action** from dataflow screen.
 
 ### Obtain Client ID and Client Secret from Salesforce Marketing Cloud
 
-Perform the following steps to retrieve the Client ID and Client Secret for a new package:
+Perform the following steps to retrieve the **Client ID** and **Client Secret** for a new package:
 
-1.  Log in to Salesforce Marketing Cloud.
+1.  Log in to **Salesforce Marketing Cloud**.
 
 2.  Go to **Setup >> Apps >> Installed Packages**
 
@@ -43,13 +43,14 @@ Perform the following steps to retrieve the Client ID and Client Secret for a ne
 
 9.  Click **Next**.
 
-10.  Select the following permissions for the Server-to-Server properties:
+10.  Select the following **Permissions for the Server-to-Server properties:**
 
 > For both import and export integrations workflows of SkyPoint and Salesforce Marketing Cloud, client keys will need the following access permissions:    
 
 |Workflows  |Permissions  |
 |---------|---------|
 |Contacts - List and Subscribers   | Read, Write |
+|Hub - Campaigns  | Read, Write |
 |Data - Data Extensions   | Read, Write |
 |Data - Tracking Events   | Read, Write |
 |Provisioning - Accounts   | Read, Write |
