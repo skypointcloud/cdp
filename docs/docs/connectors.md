@@ -22,7 +22,7 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *Azure SQL Database Managed Instance*
 - *Azure Synapse Analytics (Formerly SQL DW)*
 - *Azure Table Storage*
-### - Database
+### Database
 - *Amazon Redshift*
 - *Apache Impala*
 - *Azure Data Explorer (Kusto)*
