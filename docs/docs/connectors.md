@@ -53,7 +53,7 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
         - *Teradata*
         - *Vertica*
       - File
-        - *Amazon S3*
+        - [*Amazon S3*](amazonsthree.md)
         - *FTP*
         - *File System*
         - *Google Cloud Storage (S3 API)*
