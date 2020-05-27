@@ -7,95 +7,95 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 ## Connectors Categorization
 1. You can fiter the list of connectors with respect to the following categories.
       - All Categories
-      - Azure
-        - *Azure Blob Storage*
-        - *Azure Cosmos DB (MongoDB API)*
-        - *Azure Cosmos DB (SQL API)*
-        - *Azure Data Explorer (Kusto)*
-        - *Azure Data Lake Storage gen1*
-        - *Azure Data Lake Storage gen2*
-        - *Azure Database for MariaDB*
-        - *Azure Database for MySQL*
-        - *Azure Database for PostgreSQL*
-        - *Azure File Storage*
-        - *Azure SQL Database*
-        - *Azure SQL Database Managed Instance*
-        - *Azure Synapse Analytics (Formerly SQL DW)*
-        - *Azure Table Storage*
-      - Database
-        - *Amazon Redshift*
-        - *Apache Impala*
-        - *Azure Data Explorer (Kusto)*
-        - *Azure SQL Database Managed Instance*
-        - *DB2*
-        - *Drill*
-        - *Google AdWords*
-        - *Google BigQuery*
-        - *Greenplum*
-        - *HBase*
-        - *Hive*
-        - *Informix*
-        - *MariaDB*
-        - *Microsoft Access*
-        - *MySQL*
-        - *Nitezza*
-        - *Oracle*
-        - *Phoenix*
-        - *PostgreSQL*
-        - *Presto*
-        - *SAP BW Open hub*
-        - *SAP BW via MDX*
-        - *SAP HANA*
-        - *SAP Table*
-        - *SQL Server*
-        - *Spark*
-        - *Sybase*
-        - *Teradata*
-        - *Vertica*
-      - File
-        - [*Amazon S3*](amazonsthree.md)
-        - *FTP*
-        - *File System*
-        - *Google Cloud Storage (S3 API)*
-        - *HDFS*
-        - *HTTP*
-        - *SFTP*
-      - Generic Protocol
-        - *ODBC*
-        - *OData*
-        - *REST*
-      - NoSQL
-        - *Cassandra*
-        - *Couchbase*
-        - *MongoDB*
-      - Services and Apps
-        - *Amazon Marketplace Web Service*
-        - *Azhure Data Explorer (Kusto)*
-        - *Campaign Monitor*
-        - *Common Data Service for Apps*
-        - *Concur*
-        - *Dynamics 365*
-        - *Dynamics AX*
-        - *Dynamics CRM*
-        - *HubSpot*
-        - *Jira*
-        - *Magento*
-        - *Marketo*
-        - *Office 365*
-        - *Oracle Eloqua*
-        - *Oracle Responsys*
-        - *Oracle Service Cloud*
-        - *PayPal*
-        - *QuickBooks*
-        - *REST*
-        - SAP Cloud for Customer*
-        - *SAP ECC*
-        - *Salesforce*
-        - *Salesforce Marketing Cloud*
-        - *Salesforce Service Cloud*
-        - *Service Now*
-        - *Shopify*
-        - *Square*
-        - *Web Table*
-        - *Xero*
-        - *Zoho*
+### Azure
+- *Azure Blob Storage*
+- *Azure Cosmos DB (MongoDB API)*
+- *Azure Cosmos DB (SQL API)*
+- *Azure Data Explorer (Kusto)*
+- *Azure Data Lake Storage gen1*
+- *Azure Data Lake Storage gen2*
+- *Azure Database for MariaDB*
+- *Azure Database for MySQL*
+- *Azure Database for PostgreSQL*
+- *Azure File Storage*
+- *Azure SQL Database*
+- *Azure SQL Database Managed Instance*
+- *Azure Synapse Analytics (Formerly SQL DW)*
+- *Azure Table Storage*
+### - Database
+- *Amazon Redshift*
+- *Apache Impala*
+- *Azure Data Explorer (Kusto)*
+- *Azure SQL Database Managed Instance*
+- *DB2*
+- *Drill*
+- *Google AdWords*
+- *Google BigQuery*
+- *Greenplum*
+- *HBase*
+- *Hive*
+- *Informix*
+- *MariaDB*
+- *Microsoft Access*
+- *MySQL*
+- *Nitezza*
+- *Oracle*
+- *Phoenix*
+- *PostgreSQL*
+- *Presto*
+- *SAP BW Open hub*
+- *SAP BW via MDX*
+- *SAP HANA*
+- *SAP Table*
+- *SQL Server*
+- *Spark*
+- *Sybase*
+- *Teradata*
+- *Vertica*
+### File
+- [*Amazon S3*](amazonsthree.md)
+- *FTP*
+- *File System*
+- *Google Cloud Storage (S3 API)*
+- *HDFS*
+- *HTTP*
+- *SFTP*
+### Generic Protocol
+- *ODBC*
+- *OData*
+- *REST*
+### NoSQL
+- *Cassandra*
+- *Couchbase*
+- *MongoDB*
+### Services and Apps
+- *Amazon Marketplace Web Service*
+- *Azhure Data Explorer (Kusto)*
+- [*Campaign Monitor*](campaignmonitor.md)
+- *Common Data Service for Apps*
+- *Concur*
+- *Dynamics 365*
+- *Dynamics AX*
+- *Dynamics CRM*
+- *HubSpot*
+- *Jira*
+- *Magento*
+- *Marketo*
+- *Office 365*
+- *Oracle Eloqua*
+- *Oracle Responsys*
+- *Oracle Service Cloud*
+- *PayPal*
+- *QuickBooks*
+- *REST*
+- SAP Cloud for Customer*
+- *SAP ECC*
+- [*Salesforce*](salesforce.md)
+- *Salesforce Marketing Cloud*
+- *Salesforce Service Cloud*
+- *Service Now*
+- *Shopify*](shopify.md)
+- *Square*
+- *Web Table*
+- *Xero*
+- *Zoho*
