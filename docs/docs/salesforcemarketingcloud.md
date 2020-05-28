@@ -67,7 +67,7 @@ Perform the following steps to retrieve the Client ID and Client Secret for an e
 
 1.  Go to **Setup >> Apps >> Installed Packages**
 
-    
+   
 
     The Installed Packages page lists all the packages installed in the Salesforce Marketing Cloud account.
 
@@ -89,3 +89,18 @@ If an existing package uses OAuth 1.0, you cannot edit the package to use OAuth 
 
 For information about configuring installed packages and API integration, see the following URL: [https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-app-development.meta/mc-app-development/index.htm](https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-app-development.meta/mc-app-development/index.htm)
 Select API Integration as the component type.
+
+### Dealing with **Data Extensions**
+
+A data extension in Marketing Cloud Email Studio is a table within the application database that contains your data.
+It has constraints like that, name of the data extension and column names of the data extensions can not start with underscore ( _ ) else it will throw error. 
+
+
+Refer below links for data extension creation and its constraints.
+
+
+[Data Extension Creation](https://help.salesforce.com/articleView?id=mc_es_create_data_extension_classic.htm&type=5)
+
+
+[Data Extension Name Constarints](https://help.salesforce.com/articleView?id=mc_es_data_extension_error_messages.htm&type=5)
+
