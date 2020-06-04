@@ -1,22 +1,27 @@
 # Getting Started With the SkyPoint API
 
-The SkyPoint API is a restful JSON API that includes. SkyPoint uses Microsoft Azue B2C services for authentication. 
+The SkyPoint CDP API is a restful JSON API using Java Web Tokens (JWT). SkyPoint uses Microsoft Azue B2C services for authentication. 
 
 # Prerequisites
 
 Before you can start using the API, you need to do the following:
 
-Create a SkyPoint account.
-Create a API (JWT) key.
+Sign up for SkyPoint CDP account.
 Make sure you have Postman installed on your machine.
 
-# Media Types
+# Access APIs using Swagger UI
 
-Our API is a JSON REST API. We have data-upload API's which support csv uploads as well.
+APIs are categorized into Internal and External.All APIs including parameters and responses, can be found on the [SkyPoint CDP Swagger Page](https://api.skypointcloud.com/swagger/index.html).
 
-Requests with a message-body use plain JSON to set or update resource states
+If you aren't familiar with Swagger, here's a step-by-step tutorial: [Swagger Tutorial](https://idratherbewriting.com/learnapidoc/pubapis_swagger.html).
 
-# Tips
+1. Go to the [SkyPoint CDP Swagger Page](https://api.skypointcloud.com/swagger/index.html)
+
+2. Click on **Authorize** and use your SkyPoint CDP credentials.
+
+3. Open the **Instances** > **GET /api/instances** endpoint. Select **Try it out** and **Execute** the call.
+
+# References & Tips
 
 Here is a quick video on how to use JWT with Postman - https://www.youtube.com/watch?v=LKveAwao9HA
 
