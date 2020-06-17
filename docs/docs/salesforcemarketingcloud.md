@@ -10,14 +10,40 @@ You need to provide the following details:
   1. **Authentication URL**
   
   Once you enter all the required details, **Click Connect**: 
-  
+   
+   * This will fetch all **Subscriber Lists, Campaigns and Data Extensions**.
+     
    * Upon clicking the Connect button, it will validate your credentials, if it is successful you will see a notification **Data loaded successfully** else it will show the error that login has failed.
 
-   * Upon successful connection, it will show the names of all **Subscriber Lists** and **Campaigns** imported from the source with headers like Name, Type, Entity Name etc.
+   * Upon successful connection, it will show the names of all **Subscriber Lists**, **Campaigns** and **Data Extensions** imported from the source with headers like Name, Type, Entity Name etc.
 
-   * Select the **Subscriber Lists** and **Campaigns** you want and save the data flow.
+   * Select the required enities and save the data flow.
 
    * You can **Run** the data flow as and when required by choosing the **Run action** from dataflow screen.
+   
+   * Upon successful run two entities will be created named **sfmc_events** from all event activities and **sfmc_subscribers** from all subscribers from Lists, Campaigns and Data Extensions. 
+  
+
+### Configuring Activities Import
+
+You need to make seletion from below options:
+
+  1. **Activity Start Date** : Set start date for range. Leave as dd-mm-yyyy to import activities since beginning. Select entered date and press delete to clear.
+  1. **Activity End Date** : Set end date for range. Leave as dd-mm-yyyy to import activities till today. Select entered date and press delete to clear.
+  1. **Activities** : Select subset of activities to import. By default all activities are selected.
+ 
+ * The **Date Range** is optional. If it's selected it will fetch all activities since beginning till today.
+ 
+ * If **Start Date** is provided it will fetch all activities from given start date.
+
+ * If **End Date** is provided it will fetch all activities till given end date.
+ 
+ * Choose any subset of **Activities** from these event types **"BounceEvent, ClickEvent, ForwardedEmailOptInEvent, ForwardedEmailEvent, OpenEvent, SentEvent, SurveyEvent, UnsubEvent"**.
+ 
+ * This will fetch all activities from selected event types to generate a entity **sfmc_events**.
+ 
+ **Note** : The full refresh/first retrieval of enities will take time to be finished as the number of activites will be huge.
+
 
 ### Obtain Client ID and Client Secret from Salesforce Marketing Cloud
 
