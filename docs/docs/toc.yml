@@ -28,6 +28,10 @@
           href: amazonsthree.md          
         - name: Azure Blob Storage
           href: azureblobstorage.md
+        - name: Azure Data Lake Storage Gen1
+          href: azuredatalakestoragegen1.md
+        - name: Azure Data Lake Storage Gen2
+          href: azuredatalakestoragegen2.md
     - name: Dataflows
       href: dataflows.md 
     - name: Channels
