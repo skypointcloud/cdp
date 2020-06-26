@@ -46,6 +46,26 @@
       href: associations.md
     - name: Models
       href: models.md
+- name: Privacy
+  items:
+        - name: Overview
+          href: privacyoverview.md
+        - name: Data Maps
+          href: datamaps.md  
+        - name: Data Use Cases 
+          href: datausecases.md  
+        - name: Privacy Center
+          href: privacycenter.md  
+        - name: Data Subject Requests
+          href: datasubjectrequest.md
+        - name: Consent Manager
+          href: consentmanager.md          
+        - name: Templates
+          href: privacytemplates.md
+        - name: Reports
+          href: privacyreports.md
+        - name: Azure Data Lake Storage Gen2
+          href: azuredatalakestoragegen2.md
 - name: Insights
   items:
     - name: Profiles
@@ -57,7 +77,15 @@
 - name: Action
   items:
     - name: Export
-      href: export.md
+      items:
+        - name: Overview
+          href: exportoverview.md
+        - name: Amazon S3
+          href: amazons3export.md
+        - name: Azure Blob
+          href: azureblobexport.md
+        - name: Azure Data Lake Gen2
+          href: adlsgen2export.md
 - name: Settings
   items:
     - name: Platform
@@ -78,15 +106,3 @@
   items:
     - name: APIs
       href: api.md
-- name: Privacy Compliance 
-  items:
-    - name: Where an Organization's Data is Located
-      href: data-location.md
-    - name: Requests to Delete Personal Data
-      href: gdpr-delete.md
-    - name: Discover Requests from Data Subjects
-      href: gdpr-discovery.md
-    - name: Requests for Copies of Personal Data
-      href: gdpr-export.md
-    - name: GDPR Compliance 
-      href: gdpr-summary.md
