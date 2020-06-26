@@ -8,6 +8,6 @@ SkyPoint exports from Common Data Model (an open source standard) to the locatio
 
 ## Export Connectors Categorization
 1. You can fiter the list of connectors from the drop down of type in the UI.The categories supported are
-      - *Azure Blob Storage*
-      - *Azure Data Lake Storage gen2*
-      - *Amazon Simple Storage Service(s3)*
+      - [*Azure Blob Storage*](azureblobexport.md)
+      - [*Azure Data Lake Storage gen2*](adlsgen2export.md)
+      - [*Amazon Simple Storage Service(s3)*](amazons3export.md)
