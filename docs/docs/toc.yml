@@ -64,8 +64,6 @@
           href: privacytemplates.md
         - name: Reports
           href: privacyreports.md
-        - name: Azure Data Lake Storage Gen2
-          href: azuredatalakestoragegen2.md
 - name: Insights
   items:
     - name: Profiles
