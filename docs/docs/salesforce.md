@@ -34,7 +34,7 @@ In order to allow **SkyPoint** access to your **Salesforce account**, you need t
 3. **Password specify a password for the user account.**
 
 4. **Security Token specify a security token for the user account.**
-    * Note : Salesforce account password expires after every 90 days, along with that new security token is generated and mailed.
+    * Note : Salesforce account password expires after **every 90 days**, along with that new security token is generated and mailed.
 
 **For instructions on how to get and reset a security token, [Click here](https://help.salesforce.com/articleView?id=user_security_token.htm&type=5).**
 
