@@ -1,20 +1,20 @@
-# SkyPoint Customer Data Platform (CDP)
+# SkyPoint Data Privacy Platform 
 
-Customer data makes up the foundation of an organization. It tells who’s buying, what they want, and how best to reach them. But for many businesses, customer data is siloed across systems, impossible to unify, and not actionable across the organization.
+SkyPoint Data Privacy Platform makes it simple to give your users control over their personal data and automate compliance to privacy laws such as CCPA, GDPR and hundreds of other regulations.
 
-We built SkyPoint Customer Data Platform (CDP) from the ground up to solve this problem by unifying all your customer data at scale, delivering a complete customer 360 and predictive insights. 
+- Privacy center (privacy.yourcompany.com)
+- Automated data mapping, consent management and data subject requests
+- Privacy compliance (GDPR, CCPA etc.)
+- Machine learning based identity resolution
+- Drive website and app trust & user engagement
 
 ## How Does It Work?
 
-SkyPoint CDP is a realcdp.org complaint SaaS product. It provides following key capabilities:
-
-- Ingest (Import) data from any source
-- Capture full detail of ingested data
-- Store ingested data indefinitely (subject to privacy constraints)
-- Create unified (Stitch and Timelines) profiles of identified individuals/customers/consumers/leads/prospects/organizations etc. (360 degree-view)
-  - [Common Data Model](https://docs.microsoft.com/common-data-model/) compliant unified profiles can then be segmented and enriched to create highly flexible targets for marketing or further analysis.
-- Share (Export) data with any system that needs it (E.g. personalization, seo/sem, marketing, analytics, AI/machine learning etc.)
- - External integration is also supported by APIs and SkyPoint Connector for example to use [Microsoft Power Platform](https://powerplatform.microsoft.com/en-us/) to create automated workflows and no-code solutions.
+- Integrate and import data from any source
+- Create profiles using identity resolution (Customer 360 view)
+- Automate privacy compliance (GDPR, CCPA etc.)
+- Export data with any system that needs it 
+- Automate business processes usig APIs and SkyPoint Connector (e.g. Microsoft Teams and Power Platform) 
 
 ## Sources (Import)
 
@@ -22,7 +22,7 @@ SkyPoint imports data from Sources. Imported data is transformed into Common Dat
 
 ## Profile (Stitch)
 
-Profiles enables you to create unified customer profiles in SkyPoint, to build and enrich audiences, and to activate audiences across various destinations such as marketing, sales and services tools.
+Profiles enables you to create unified customer profiles in SkyPoint, to build audiences, and to activate audiences across various destinations such as marketing, sales and services tools.
 
 Identity Resolution utilizing rules and machine learning sits at the core of the stitch process. 
 
