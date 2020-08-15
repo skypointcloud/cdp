@@ -1,5 +1,9 @@
-# SkyPoint Customer Data Platform (CDP) and Data Privacy Infrastructure (DPI)
+# SkyPoint Data Privacy Platform
 
-Customer data makes up the foundation of an organization. It tells who’s buying, what they want, what they consent and how best to reach them. But for many businesses, customer data is siloed across systems, impossible to unify, manage privacy and not actionable across the organization.
+SkyPoint Data Privacy Platform makes it simple to give your users control over their personal data and automate compliance to privacy laws such as CCPA, GDPR and hundreds of other regulations.
 
-We built SkyPoint Customer Data Platform (CDP) and Data Privacy Infrastructure (DPI) from the ground up to solve this problem by unifying all your customer data at scale, delivering a complete customer 360, privacy compliance and predictive insights. 
+- Privacy center (privacy.yourcompany.com)
+- Automated data mapping, consent management and data subject requests
+- Privacy compliance (GDPR, CCPA etc.)
+- Machine learning based identity resolution
+- Drive website and app trust & user engagement
