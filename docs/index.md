@@ -4,16 +4,16 @@ SkyPoint Data Privacy Platform makes it simple to give your users control over t
 
 - Privacy center (privacy.yourcompany.com)
 - Automated data mapping, consent management and data subject requests
+- Machine learning based identity resolution and Customer 360
 - Privacy compliance (GDPR, CCPA etc.)
-- Machine learning based identity resolution
-- Drive website and app trust & user engagement
+- Drive website and app trust & engagement
 
 ## How Does It Work?
 
 - Integrate and import data from any source
-- Create profiles using identity resolution (Customer 360 view)
+- Create profiles using identity resolution (Customer 360)
 - Automate privacy compliance (GDPR, CCPA etc.)
-- Export data with any system that needs it 
+- Export data to any application or data store. 
 - Automate business processes usig APIs and SkyPoint Connector (e.g. Microsoft Teams and Power Platform) 
 
 ## Sources (Import)
