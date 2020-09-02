@@ -6,6 +6,7 @@ SkyPoint Data Privacy Platform makes it simple to give your users control over t
 - Automated data mapping, consent management and data subject requests
 - Machine learning based identity resolution and Customer 360
 - Privacy compliance (GDPR, CCPA etc.)
+- Sensitive Data Vault (PII Data)
 - Drive website and app trust & engagement
 
 ## How Does It Work?
@@ -15,6 +16,7 @@ SkyPoint Data Privacy Platform makes it simple to give your users control over t
 - Automate privacy compliance (GDPR, CCPA etc.)
 - Export data to any application or data store. 
 - Automate business processes usig APIs and SkyPoint Connector (e.g. Microsoft Teams and Power Platform) 
+- Sensitive Data Vault - Just like with PCI compliance (e.g. Stripe), your application continues to work as it always has with its own data store. SkyPoint augments your existing data store by adding an additional data store for sensitive / regulated data.
 
 ## Sources (Import)
 
