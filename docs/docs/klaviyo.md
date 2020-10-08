@@ -2,15 +2,17 @@ Klaviyo Setup Guide
 Follow our setup guide to connect Klaviyo to SkyPoint.
 
 Step 01 - Add Dataflow
+
 •	Click on Add Dataflow on the right top corner of the screen.
-o	Enter a Name. (Name starts with a letter and only Letters and Numbers are allowed. No Spaces)
-o	Click Next.
-o	You will be directed to choose a Connector.
+  o	Enter a Name. (Name starts with a letter and only Letters and Numbers are allowed. No Spaces)
+  o	Click Next.
+  o	You will be directed to choose a Connector.
 
 Step 02 - Access Source Data 
 In order to allow SkyPoint access to your Klaviyo account for data ingest, you'll need the following details:
 
 o	API Key
+
 Once you enter all the API Key, Click Connect:
 This will fetch all List, Campaigns and Metrices.
 
