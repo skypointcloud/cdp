@@ -27,7 +27,9 @@
         - name: Campaign Monitor
           href: campaignmonitor.md
         - name: Amazon S3
-          href: amazonsthree.md          
+          href: amazonsthree.md 
+        - name: Klaviyo
+          href: klaviyo.md
         - name: Azure Blob Storage
           href: azureblobstorage.md
         - name: Azure Data Lake Storage Gen1
