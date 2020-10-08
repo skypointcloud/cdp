@@ -13,7 +13,7 @@ Follow our setup guide to connect **Klaviyo** to  **SkyPoint**.
 
 -	**API Key**
 
-   Once you enter all the API Key, **Click Connect:**
+   Once you enter API Key, **Click Connect:**
    - This will fetch all **List, Campaigns and Metrices**.
 
    - Upon clicking the Connect button, it will validate your credentials, if it is successful you will see a notification **Data loaded successfully** else it will show the error that login has failed.
@@ -41,12 +41,12 @@ If you don't want to get all the folders selected, with just one click of the **
 
 ## Step 04 - Save and Run
 
--	Select the required enities and click on Save button.
+-	Select the required **enities** and click on **Save button**.
 
--	You will be taken to the Dataflow page.
+-	You will be taken to the **Dataflow page**.
 
--	You can Run the data flow as and when required by choosing the Run action from dataflow screen.
+-	You can Run the data flow as and when required by choosing the **Run action** from dataflow screen.
 
--	Upon successful run two entities will be created named klaviyo_metrices from all Metrices, klaviyo_lists from all Lists and klaviyo_campaigns from all Campaigns.
+-	Upon successful run three entities will be created named klaviyo_metrices from all Metrices, klaviyo_lists from all Lists and klaviyo_campaigns from all Campaigns.
 
 
