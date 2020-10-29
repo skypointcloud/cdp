@@ -7,7 +7,7 @@ SkyPoint Data Privacy Platform makes it simple to give your users control over t
 - Machine learning based identity resolution and Customer 360
 - Privacy compliance (GDPR, CCPA etc.)
 - Sensitive Data Vault (PII Data)
-- Drive website and app trust & engagement
+- Drive website and app trust & engagements
 
 ## How Does It Work?
 
