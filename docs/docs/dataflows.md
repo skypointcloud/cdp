@@ -29,6 +29,12 @@
         (Select the folder you want download the data from the source)<br>
         Click **Save**<br>
         Once you selcet the S3 Bucket you will see a notification *Data loaded successfuly*
+    - **Dynamic365**
+        - **Username** (Check with Amazon S3 source credentials.)
+        - **password**
+        - **clienid**
+        - **clientsecret**
+        - **domain url**
 
 ### Connection
 1. Click on Connect
@@ -36,6 +42,8 @@
 ### Saving
 1. Click Save
 
+### Run
+1. After the connection is established, go to the ellipsis under the column name "action" on the right corner of the dataflow row, click and choose start to ingest all the entities. It might take a few minutes and will ultimately show a green tick under the status column.
 
 ### Other Connector Process
 Independent method to know more about all other connector process please click [HERE](connectors.md)
