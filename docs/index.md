@@ -1,4 +1,4 @@
-# What business problem does SkyPoint solve? 
+## What business problem does SkyPoint solve? 
 
 In today’s business landscape, where digital transformation is constantly accelerating, companies face three main customer data challenges.
 
