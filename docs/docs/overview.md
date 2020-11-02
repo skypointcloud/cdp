@@ -1,10 +1,6 @@
 # Overview
 
-Customer data makes up the foundation of an organization. It tells who’s buying, what they want, and how best to reach them. But for many businesses, customer data is siloed across systems, impossible to unify, and not actionable across the organization.
-
-We built SkyPoint Customer Data Platform (CDP) from the ground up to solve this problem by unifying all your customer data at scale, delivering a complete customer 360 and predictive insights.
-
-SkyPoint is proud to be a Microsoft Gold Partner and Microsoft Azure Cloud Marketplace SaaS platform. 
+SkyPoint Cloud is a customer data platform that champions privacy and compliance through connected privacy-first customer experiences.
 
 ## Terminologies Used in the Application
 
@@ -12,7 +8,7 @@ SkyPoint is proud to be a Microsoft Gold Partner and Microsoft Azure Cloud Marke
 
 - Instances -> You can consider them as subsidiaries of a single client.
 
-- Dataflows (Import) -> It allows you to ingest data from all your sources, transform and load into the data lake in Common Data Model (CDM) schema. You can club common data sources into single dataflow.
+- Dataflows (Integrations - Import) -> It allows you to ingest data from all your sources, transform and load into the data lake in Common Data Model (CDM) schema. You can club common data sources into single dataflow.
 
 - Channels -> They are the visitor touchpoints that you want to monitor with SkyPointCloud.
 
@@ -22,7 +18,7 @@ SkyPoint is proud to be a Microsoft Gold Partner and Microsoft Azure Cloud Marke
 
   - Map -> It defines the profile data in your entities by choosing the profile attributes, primary key, and types (datatypes defined by SkyPoint Cloud).
 
-  -  Match -> It identifies the unique profiles in your entities by matching records based on certain rules.
+  - Match -> It identifies the unique profiles in your entities by matching records based on certain rules.
  
   - Merge -> It creates an entity of profile records by combining duplicate attributes and removing attributes you don’t need.
 
@@ -38,7 +34,7 @@ SkyPoint is proud to be a Microsoft Gold Partner and Microsoft Azure Cloud Marke
 
 - Metrics -> It creates parameters to check the different insights to see if you are on track.
 
-- Dataflows (Export) -> It exports the entities to several destinations including storage accounts and applications. 
+- Dataflows (Integrations - Export) -> It exports the entities to several destinations including storage accounts and applications. 
 
 - Platform -> It consists of notifications, schedule, instance, product, activity stream.
 
