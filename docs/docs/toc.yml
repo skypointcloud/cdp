@@ -14,7 +14,7 @@
       href: home.md
 - name: Data
   items:
-    - name: Connectors
+    - name: Integrations
       items:
         - name: Overview
           href: connectors.md
