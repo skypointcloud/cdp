@@ -52,22 +52,22 @@
       href: models.md
 - name: Privacy
   items:
-        - name: Overview
-          href: privacyoverview.md
-        - name: Data Maps
-          href: datamaps.md  
-        - name: Data Use Cases 
-          href: datausecases.md  
-        - name: Privacy Center
-          href: privacycenter.md  
-        - name: Data Subject Requests
-          href: datasubjectrequest.md
-        - name: Consent Manager
-          href: consentmanager.md          
-        - name: Templates
-          href: privacytemplates.md
-        - name: Reports
-          href: privacyreports.md
+    - name: Overview
+      href: privacyoverview.md
+    - name: Data Maps
+      href: datamaps.md  
+    - name: Data Use Cases 
+      href: datausecases.md  
+    - name: Privacy Center
+      href: privacycenter.md  
+    - name: Data Subject Requests
+      href: datasubjectrequest.md
+    - name: Consent Manager
+      href: consentmanager.md          
+    - name: Templates
+      href: privacytemplates.md
+    - name: Reports
+      href: privacyreports.md
 - name: Insights
   items:
     - name: Profiles
