@@ -4,6 +4,9 @@
 
 ## Steps to update the template
 1. Navigate to the Templates section of the app.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/templates.png?raw=true)
+
 2. Choose which template/s you want to update.
 3. Click on the button provided under action to update the template.
 4. A new update Template window will appear.

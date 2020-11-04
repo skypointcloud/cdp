@@ -5,6 +5,9 @@
 
 ### Steps to create a DSR
 1. Navigate to DSR and click on Add New.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/dsr.png?raw=true)
+
 2. Fill in all the details required and then click on Save. 
 3. Another option to create a new DSR is by clicking on Bulk Import and upload from local. 
 There is a table present at the bottom of this segment where we can see the run history. The previous activities with their start and end time with them description is also available. 

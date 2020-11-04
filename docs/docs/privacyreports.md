@@ -13,5 +13,8 @@
 3. Select the year and the month for which the report needs to be generated. 
 4. Click on Generate Report. You will be able to see the report on the screen. If there are any activities performed in that time frame, you can generate a PDF for the same by clicking on the button present at the right corner.
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/report.png?raw=true)
+
+
 ### Note
 - If there are no activities under the selected time frame, the generate PDF button will be disabled as there is nothing to review.

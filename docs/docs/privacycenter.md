@@ -2,7 +2,10 @@
 This section of the app allows you to set up your own privacy center. 
 
 ## Steps to create a new privacy center with specific rules
-1. Navigate to Privacy Center. Click on Add New button. 
+1. Navigate to Privacy Center. Click on Add New button.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/privacycenter.png?raw=true)
+
 2. The organization settings will open, and you will see a lot of different areas to be filled out. 3. Upload a logo and a favicon and enter all the necessary details and at the bottom, click on Save. 
 4. After successful completion, you will reach Privacy Policy where an empty field is given to fill all the necessary policies that are present for that organization. 
 5. Then go to Privacy Setting and you will see "Privacy Center Actions" where you have 5 checkboxes namely:

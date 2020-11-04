@@ -1,6 +1,8 @@
 # Data Maps
 The dataflow that was chosen previously for different types of operations to some/all the different types of entities present inside them need to be carefully handled. Consolidation of different entities can be disastrous and that's why our platform provides an easier and powerful way to process, manage and secure the data with minimal complexity. 
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/dataMap.png?raw=true)
+
 Data Map usually reflects 4 different stages through which the data flows through. They are:
 
     - Collect: This field shows the dataflow chosen by any tenant that requires modifications/processing of any kind. 
