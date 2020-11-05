@@ -10,5 +10,8 @@ The details of the instance such as **Instance name**, **Instance identifier** a
 1. **Language:**  Click on the drop down to select the preferred language. The Default language will be English.
 1. **Date and number format:** Click on the drop down to selct the date format. The date format preview will be shown below.The Default value will United States.
 1. **Currency:** Can select the currency type by clicking on the drop down. Default value will be US Dollar (USD) $.
+1. **CDM Patition Count:** Can select the number of partitions of CDM by clicking on the spin button.
 
 Click on **Save** button.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/instance.png?raw=true)
