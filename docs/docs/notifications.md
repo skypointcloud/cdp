@@ -20,4 +20,4 @@ There are 6 types of status. For Data flow the status type are **Completed**, **
 1. **Not Configured** : If the sticthing of the data is not configured.
 1. **Configured** : If the sticthing of the data is configured.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/notificationcords.png?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/notificationRecords.png?raw=true)
