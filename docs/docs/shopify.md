@@ -65,7 +65,7 @@ In this section, we try to produce additional information and insights about the
 
 2. **Audiences**: In this section, we can create and oversee the audiences table which is a tabular representation denoting the number of members in every audience created with their current status. An audience is a group of profiles characterized by a defined set of attributes based filters. The other table below it elaborates the work history that corresponds to all the successful and failed iterations over creating audiences.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/audience.jpg?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/audiences.jpg?raw=true)
 
 3. **Metrics**:  The key statistics that needs to be represented on the dashboard is evaluated and processsed in this section. Considering the case where the data is filled with entries of user data, the metrics can be total time spent, total number of orders, etc.
 
@@ -78,4 +78,4 @@ This is the section of our cloud platform that helps us in exporting data to ano
 2. Azure Data Lake Gen2: Azure Data Lake Storage Gen2 is a set of capabilities dedicated to big data analytics, built on Azure Blob Storage. Data Lake Storage Gen2 is the result of converging the capabilities of our two existing storage services, Azure Blob storage and Azure Data Lake Storage Gen1.
 3. Amazon S3: Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as data lakes, websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/action.png?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/action.PNG?raw=true)
