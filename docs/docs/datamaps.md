@@ -5,10 +5,10 @@ The dataflow that was chosen previously for different types of operations to som
 
 Data Map usually reflects 4 different stages through which the data flows through. They are:
 
-    - Collect: This field shows the dataflow chosen by any tenant that requires modifications/processing of any kind. 
-    - Transform: The main modifications regarding different entities take place over here and the data entities gets into a regularized shape for better understanding. 
-    - Process: Any processing needed that the customer wants with regards to the final use-case.
-    - Retain: The outcome of the modifications done on the dataset is reflected to the system and is stored for future references.
+- Collect: This field shows the dataflow chosen by any tenant that requires modifications/processing of any kind. 
+- Transform: The main modifications regarding different entities take place over here and the data entities gets into a regularized shape for better understanding. 
+- Process: Any processing needed that the customer wants with regards to the final use-case.
+- Retain: The outcome of the modifications done on the dataset is reflected to the system and is stored for future references.
 
 ## PII Map
 Personally, Identifiable Information mapping helps us understand more about the specific centric across different entities and organize on general basis. We can edit the options available w.r.t the entities where we can choose to erase or access certain entities. 
