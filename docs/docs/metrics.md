@@ -1,6 +1,10 @@
 # Insights
 
-## Metrics
+**Metrics**:  The key statistics that needs to be represented on the dashboard is evaluated and processsed in this section. Considering the case where the data is filled with entries of user data, the metrics can be total time spent, total number of orders, etc.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/metrics.jpg?raw=true)
+
+## Steps to Formulate Metrics
 
 1. Select metric type.
 

@@ -1,6 +1,10 @@
 # Insights
 
-## Audiences
+**Audiences**: In this section, we can create and oversee the audiences table which is a tabular representation denoting the number of members in every audience created with their current status. An audience is a group of profiles characterized by a defined set of attributes based filters. The other table below it elaborates the work history that corresponds to all the successful and failed iterations over creating audiences.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/audiences.jpg?raw=true)
+
+## Steps to Create Audiences
 
 1. Select the entity which you want to filter.
 

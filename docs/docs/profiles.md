@@ -1,6 +1,10 @@
 # Insights
 
-## Profiles
+**Profiles**: When the data has been processed, it needs to be profiled. Profiling helps in giving feature insights to individuals whose entry is present in the data and have been summarized with some security. When we navigate to the Profile section of the platform, we can see these profiles made, with entries like first name, last name, etc.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/profiles.jpg?raw=true)
+
+## Steps to create Profiles
 
 1. Click on customize tile to update what fields you see for each profile.
 
