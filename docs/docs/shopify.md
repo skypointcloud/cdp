@@ -43,3 +43,11 @@ For every entity, there are certain purposes desginated to them. Some of them ar
     - Merge: The final phase of Stitch is Merge where we choose and exclude attributes to merge within or mapped and matched data. Some of the attrbiutes are automatically merged.
 
 To know more about Stitch, click [here](https://skypointcdpdocs.z22.web.core.windows.net/docs/stitch.html)
+
+## Key Attributes that Require Write Access for Erase Pipeline
+
+1. Customers (Required)
+2. Customer Addresses (Required)
+3. Orders (Required)
+4. Order Risks (Optional) (No essential PII)
+5. Fulfillments (Optional)
