@@ -92,14 +92,14 @@
   items:
     - name: Platform
       items:
-        - name: Notifications
+        - name: Tenant
+          href: tenant.md
+        - name: Instance
+          href: instance.md
+        - name: Notification
           href: notifications.md
         - name: Schedule
           href: schedule.md
-        - name: Instance
-          href: instance.md
-        - name: Product
-          href: product.md
         - name: Activity Stream
           href: activity-stream.md
     - name: Security

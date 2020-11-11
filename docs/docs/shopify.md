@@ -24,7 +24,7 @@ For every entity, there are certain purposes desginated to them. Some of them ar
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/purpose.jpg?raw=true)
 
-## Steps to Input data using Shopify Connector
+## Steps to Import data using Shopify Connector
 
 1. Navigate to the platform and go to Data.
 2. Create a new dataflow and attach a connector of the category Shopify and fill in all the credentials required.
