@@ -9,13 +9,13 @@ In this sub-section, details of the current subscription the user has actiavted 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/billing-info.PNG?raw=true)
 
 After the basic details in regards to the subscription, is a brief tabular description of all the different basic plans offered to the user on this platform. The user have been given the liberty to choose the payment plan with two options:
-1. Pay Monnthly
+1. Pay Monthly
 2. Pay Yearly
 
 To upgrade a plan click on the upgrade button on that particular plan which you want to subscribe.
 
 ### Base Plans Details
-1. **FREE**: By default, the free plan is activated and the user gets the following features with the subscription:
+1. **FREE** : By default, the free plan is activated and the user gets the following features with the subscription:
     - Price: $0 per month
     - Number of Instance: 1
     - Number of Users: 1
@@ -23,7 +23,7 @@ To upgrade a plan click on the upgrade button on that particular plan which you 
     - Consent Manager
     - Data Subject Request Manager
     - Online Support
-2. **STARTER**: If the user chooses the starter plan, below are the following features that will be activated post subscription:
+2. **STARTER** : If the user chooses the starter plan, below are the following features that will be activated post subscription:
     - Price: $995 per month(Pay Monthly) and $796 per month(Pay Annually)
     - Number of Data Integrations: 3
     - Number of Instance: 1
@@ -37,7 +37,7 @@ To upgrade a plan click on the upgrade button on that particular plan which you 
     - Data Subject Request Automation
     - Priority Support
     - $2K Concierge Setup Included
-3. **PROFESSIONAL**:If the user chooses the Professional plan, below are the following features that will be activated post subscription:
+3. **PROFESSIONAL** : If the user chooses the Professional plan, below are the following features that will be activated post subscription:
     - Price: $1995 per month(Pay Monthly) and $1596 per month(Pay Annually)
     - Number of Data Integrations: 5
     - Number of Instance: 2
@@ -52,7 +52,7 @@ To upgrade a plan click on the upgrade button on that particular plan which you 
     - Standard Data Science Models
     - Priority Support
     - $4K Concierge Setup Included
-4. **ENTERPRISE**:If the user chooses the enterprise plan, below are the following features that will be activated post subscription:
+4. **ENTERPRISE** : If the user chooses the enterprise plan, below are the following features that will be activated post subscription:
     - Price: Custom
     - Number of Data Integrations: 10+
     - Number of Instance: 2+
