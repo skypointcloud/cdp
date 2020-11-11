@@ -104,6 +104,8 @@
           href: activity-stream.md
     - name: Security
       href: security.md
+    - name: Billing Info
+      href: billing.md
 - name: Application Development  
   items:
     - name: APIs
