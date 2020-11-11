@@ -51,3 +51,9 @@ To know more about Stitch, click [here](https://skypointcdpdocs.z22.web.core.win
 3. Orders (Required)
 4. Order Risks (Optional) (No essential PII)
 5. Fulfillments (Optional)
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/permissions.PNG?raw=true)
+
+We will also be required to allow the app created on Shopify's portal to access our storefront data using the storefront API.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/storefront.png?raw=true)
