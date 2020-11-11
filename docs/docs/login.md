@@ -20,7 +20,7 @@
 4. The credentials will be verified from SkyPoint CDP secured data resources.
 5. Once the verification is successful, you will be redirected to SkyPoint CDP dashboard.
 
-### Azure Active Directory
+### Using Azure Active Directory
 1. Click on the **Azure AD** button.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/loginviaazure.jpg?raw=true)
