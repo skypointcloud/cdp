@@ -6,6 +6,8 @@ In this sub-section, details of the current subscription the user has actiavted 
 2. Plan
 3. Price
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/billing-info.PNG?raw=true)
+
 After the basic details in regards to the subscription, is a brief tabular description of all the different basic plans offered to the user on this platform. The user have been given the liberty to choose the payment plan with two options:
 1. Pay Monnthly
 2. Pay Yearly
