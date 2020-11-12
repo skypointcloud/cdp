@@ -1,14 +1,14 @@
 # Security
 This section is one of the key features for any platform as it ensures a secure and safe environment to work on data that is sensitive in all aspects. To provide security, there are certain roles defined to ensure that every user gets access to only those sections of the platform which they actually require preventing unncessary access to anyone.
 
-## Roles
+## Security Roles
 On our platform, we have divided Roles into 4 categories:
 1. Contributor: Permission to contribute to the platform post admin permissions.
 2. Instance Admin: Permission to view, edit and manage current instance.
 3. Tenant Admin: Permission to view, edit and manage current tenant and all of its instances.
 4. Viewer: Permission to view an instance.
 
-## Tabular Representation of details of all Users with Roles
+## Tabular Representation of All Users with Roles
 All the users associated on this platform have an entry in this table with their details regarding certain roles assigned to them. Every row corresponds to a single user and every column has some specific entity related to that user. Some important column attributes are:
 1. Name: Name of the user with the email address.
 2. Source: Account which was used for Login
@@ -18,7 +18,7 @@ All the users associated on this platform have an entry in this table with their
 6. Multi-Tenant: *Yes* if the user is currently given access to more than one tenant and *No* if the user is currently given access to only one tenant.
 7. Action: This is an option when you want to quickly delete, unlink or block a user. To perform any of the three actions, click on the 3 dot icon and select the action you want to perform.
 
-## Tabular Repersentaion of details of all Invited Users and their Acceptance Status
+## Tabular Repersentaion of All Invited Users and their Acceptance Status
 When a user is invited on this platform with certain roles assigned to him/her, a track record gets feed on into this table with certarin attributes for every user details. Some of the details are:
 1. Email: Email address of the user who got invited.
 2. Role: The designated role assigned to the user.
