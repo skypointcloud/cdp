@@ -17,7 +17,7 @@ The platform offers multiple ways to sign-up to make it easier for the user to s
 7. Enter a strong **Password** [Mandatory]
 8. Click on the **Get Started** button.
 
-You will be redirected to next page.
+You will be get a verification mail with a hyperlink which on clicking will get you verified and you can then go to Sign-In page to access the platform.
 
 ### Sign-Up Using Azure Account
 
