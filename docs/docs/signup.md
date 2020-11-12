@@ -1,7 +1,7 @@
 # Sign Up
 
 The platform offers multiple ways to sign-up to make it easier for the user to start utilizing features provided by the platform. 
-## How to sign up.
+## Steps to Sign up.
 
 ### Enter Basic Details for Getting Started
 
@@ -16,8 +16,20 @@ The platform offers multiple ways to sign-up to make it easier for the user to s
 6. Enter your *Job Title* [Not mandatory]
 7. Enter a strong **Password** [Mandatory]
 8. Click on the **Get Started** button.
+9. You will be get a verification mail with a hyperlink which on clicking will get you verified and you can then go to Sign-In page to access the platform.
 
-You will be get a verification mail with a hyperlink which on clicking will get you verified and you can then go to Sign-In page to access the platform.
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/getstarted.PNG?raw=true)
+
+10. Click on the **Confirm Email** to complete the verification. You will be verified and redirected to the Sign-In page.
+11. Enter you email address and password in the designated fields and click on Sign-In.
+12. You will be successfully logged into the platform and you will be able to see something like this on your screen.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/waitforresources.PNG?raw=true)
+
+13. It might take some time to map the resources to your account. After that, the screen will automatically refresh and you will reach our platform where you will see a default instance named **Sandbox* automatically created for you. You can go to the billing section and set up your account with a basic plan for your demands and you will be good to go.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/signedup.jpg?raw=true)
+
 
 ### Sign-Up Using Azure Account
 
