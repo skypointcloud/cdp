@@ -21,6 +21,9 @@ If you aren't familiar with Swagger, here's a step-by-step tutorial: [Swagger Tu
 
 3. Open the **Instances** > **GET /api/instances** endpoint. Select **Try it out** and **Execute** the call.
 
+# Throttling & Rate Limits
+Throttling is the process responsible for regulating the rate at which the application processing is conducted. Throttling is a way to practically implement rate-limiting. It lets API developers control how their API is used by setting up a temporary state, allowing the API to assess each request. Rate Limits refers to controlling the amount of incoming and outgoing traffic to or from a network. In this case, the rate limit for our API is set to be 2000 requests/sec. If the number of requests get above the threshold, then the requests after the threshold will get an error message responding that the request limit has reached.
+
 # References & Tips
 
 Here is a quick video on how to use JWT with Postman - https://www.youtube.com/watch?v=LKveAwao9HA
