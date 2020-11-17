@@ -6,8 +6,6 @@
       href: signup.md
     - name: Login
       href: login.md
-    - name: Enabling Popup
-      href: enable-pop-ups-in-your-browser.md
 - name: Home
   items:
     - name: Home
