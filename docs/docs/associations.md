@@ -18,7 +18,7 @@ The cardinality of a join between two tables is the numerical relationship betwe
 1. Navigate to **Data** > **Associations** and click on *New Association* button present on top of the working area.
 2. A new window will pop out from the right side of the screen with some details to fill in.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/newassociations.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/newassociation.PNG?raw=true)
 
 3. Fill in the *name of the association* that best describes the relations to be created out of the entities, a brief description about the association, select the source entity, source cardinality target entity and target cardinality.
 4. Click on **Save**
