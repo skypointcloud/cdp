@@ -16,26 +16,28 @@
       items:
         - name: Overview
           href: connectors.md
-        - name: Shopify
-          href: shopify.md  
-        - name: Salesforce
-          href: salesforce.md  
-        - name: Salesforce Marketing Cloud
-          href: salesforcemarketingcloud.md  
-        - name: Campaign Monitor
-          href: campaignmonitor.md
         - name: Amazon S3
-          href: amazonsthree.md 
-        - name: Klaviyo
-          href: klaviyo.md
+          href: amazonsthree.md
         - name: Azure Blob Storage
           href: azureblobstorage.md
         - name: Azure Data Lake Storage Gen1
           href: azuredatalakestoragegen1.md
         - name: Azure Data Lake Storage Gen2
           href: azuredatalakestoragegen2.md
+        - name: Campaign Monitor
+          href: campaignmonitor.md
+        - name: Klaviyo
+          href: klaviyo.md
+        - name: Salesforce
+          href: salesforce.md  
+        - name: Salesforce Marketing Cloud
+          href: salesforcemarketingcloud.md
+        - name: Shopify
+          href: shopify.md
+        - name: Zenoti
+          href: zenoti.md
     - name: Dataflows
-      href: dataflows.md 
+      href: dataflows.md
     - name: Channels
       href: channels.md
     - name: Entities
