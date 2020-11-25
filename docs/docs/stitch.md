@@ -2,23 +2,25 @@
 
 ## Stitch Overview
 
-The problem with combining customer data from a disparate set of data sources is that rarely is there a common, unique key that links all records that belongs to an entity. This is why identity resolution is required, as it provides a probabilistic or machine learning approach to linking entities from disparate data sources together. 
+The problem in combining customer data with a disparate set of data sources, is that we can rarely find a common, unique key that links all records that belongs to an entity. This is the fundamental reason why identity resolution is required.
 
 Graph-based entity resolution algorithms have emerged as a highly effective approach including utilization of Apache Spark  and GraphFrames. The technique will exhibit an example where efficacy can be achieved based on simple heuristics, and at the same time map a path to a machine-learning assisted entity resolution engine with a powerful knowledge graph at its center.
 
-SkyPoint’s approach to identity resolution produces rich, accurate, and precise customer 360 profiles. There are two phases in the process of building customer 360 profiles. 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/stitch.PNG?raw=true)
+
+SkyPoint’s approach to identity resolution produces rich, accurate, and precise customer 360 profiles. There are two phases in the process of building customer 360 profiles.
 
 # Phase I: Data preparation 
 
 All of the initial work needed to get data into a Common Data Model (CDM) environment and prepare it for the matching process.
 
-In this process, we ingest data from multiple sources and then the first phase is to map that data columns with their semantic labels. These semantic labels help us to match the data semantically through the more advanced machine learning techniques.
+In this process, we ingest data from multiple sources and then the first phase is to *map* the data columns with their semantic labels. These semantic labels help us to match the data semantically through the more advanced machine learning techniques.
 
 # Phase II: Identity resolution
 
 The records and identities are assigned to unique individuals.
 
-The fundamental task that identity resolution is trying to accomplish is to identify the same individual person within and across all data sources that contain customer information. 
+The fundamental task that identity resolution is trying to accomplish is to identify the same individual person within and across all data sources that contain customer information.
 
 There are two approaches that are generally used for this purpose:
 
@@ -40,40 +42,61 @@ In this approach, user has to manually select the rules based on which the algor
 
 In this approach, we are trying to find the records match without any human involvement. 
 
-In this approach, user do not need to create any manual rule and rather alorithm will itself figure out (based on the semantic labels) and ML, whether 2 records should be considered a match or not. 
+In this approach, user do not need to create any manual rule but the algorithm will itself figure out (based on the semantic labels), whether 2 records should be considered a match or not.
 
-For example, a person whose name is Allison, lives in XXXXX zip code, and has interest in baseball, and go to yyyyy gym at exactly 7 AM everyday. Is same as a person named Allision, lives in XXXXX, has interest in baseball, and studies economics.
+## How to use the Stitch process
 
-This is a work in progress approach. More on this later. But the high level overview is to based on semantic labels and their importance degree, representation in multi-dimention, yields the useful results.
+The stitch process would require three main stages to follow:
+1. Map
+2. Match
+3. Merge
 
-## How to use the Stitch (Map, Match, Merge) process
+### How to Perform Map
 
-1. Map:
+1. Click on Map.
 
-   1. Click on Map.
+2. Select the entities that you want to have in the unified dataset and click on **Done**.
 
-   2. Select the entities that you want to have in the unified dataset.
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/map_selectentities.PNG?raw=true)
 
-   3. Select the appropriate type and primary key.
+3. Select the appropriate types for the necessary attributes and primary key.
 
-   4. Click on Save at the top.
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/map_entities.PNG?raw=true)
 
-2. Match:
+4. Click on Save at the top.
 
-   1. Select the entities that you have mapped.
+5. After saving it, you can run it to complete the mapping stage.
 
-   2. Set the rules in order to match the records from the selected entities.
+### How to Perform ML Match
 
-   3. Click on save.
+1. Select the entities that you have mapped.
 
-   4. Click on run.
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/stitch_mlmatch.PNG?raw=true)
 
-3. Merge:
+2. Set the rules in order to match the records from the selected entities.
 
-   1. Group the attributes which you feel are common across all the entities.
+3. Set a threshold to formulate a baseline for filtering the match results and refining the best possible identities. Higher the threshold, higher will be the match accuracy with respect to mapped entities.
 
-   2. Click on combine attributes.
+3. Click on save.
 
-   3. Click on save.
+4. Click on run to execute the ML Match stage.
 
-   4. Click on run.
+5. If everything works fine, you will be able to see the result on top of your screen. You will get to have a numerical understanding about the unique identities present in your data and the matched and unmatched records.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/mlmatch_result.PNG?raw=true)
+
+**Note** : There is a tabular representation of all the entities considered for matching and their results with a numeric representation of unique records and matched records.
+
+6. For a more visual understanding over the matched records, click on ***View Results***.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/mlmatch_viewresult.PNG?raw=true)
+
+### How to Perform ML Merge
+
+1. Group the attributes which you feel are common across all the entities. There might be different representations of the same data i.e conflicting values of some attributes over all the different datasets used for merge.
+
+2. Click on combine attributes.
+
+3. Click on save.
+
+4. Click on run.
