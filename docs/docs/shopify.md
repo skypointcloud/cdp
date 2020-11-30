@@ -57,3 +57,21 @@ To know more about Stitch, click [here](https://skypointcdpdocs.z22.web.core.win
 We will also be required to allow the app created on Shopify's portal to access our storefront data using the storefront API.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/storefront.png?raw=true)
+
+## Do Not Sell Attribute
+
+One of the most important consents that lets the customer believe in the organization with which they are interacting is the DoNotSell feature. Our platform has the feature where the user has the audacity to visit the privacy center of the associated organization and can manage the permissions inclined to his/her personal data. By default, the user's choice is considered False, i.e, the user has not restricted the sharing of his/her data to third party vendours/organizations. To change the consent, the user can go to the privacy portal and can change the consent to True by creating a DSR request. Once the request is made, the user will get an authentication email for confirmation whether the request has been made by the authorized person or not, and post that, the request will be submitted and all of that user's data will be confined and pull out from any other dataflows, if any, other than the parent. 
+
+## Steps to Create a DNS Request
+
+1. Navigate to the privacy center website.
+2. Click on **Privacy Actions** and you will be able to see all the different types of requests available for you.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/consents.PNG?raw=true)
+
+3. Click on ***Do Not Sell*** and you will be asked to enter necessary personal details.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/donotsellrequest.PNG?raw=true)
+
+4. Once you have filled all the information, click on **Submit Request** and after a while, you will be sent a link for verification.
+5. On complete verification, the status for that particular user will be changed.
