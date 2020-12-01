@@ -110,3 +110,11 @@
   items:
     - name: APIs
       href: api.md
+- name: SkyPoint Cloud Power Platform Connector  
+  items:
+    - name: Actions
+      href: actions.md
+    - name: Triggers
+      href: triggers.md
+    - name: Throttling Limits
+      href: throttling.md
