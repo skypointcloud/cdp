@@ -88,12 +88,12 @@
           href: azureblobexport.md
         - name: Azure Data Lake Gen2
           href: adlsgen2export.md
-        - name: Salesforce Marketing Cloud
-          href: sfmcexport.md
-        - name: Klaviyo
-          href: klaviyoexport.md
         - name: Campaign Monitor
           href: campaignmonitorexport.md
+        - name: Klaviyo
+          href: klaviyoexport.md
+        - name: Salesforce Marketing Cloud
+          href: sfmcexport.md
 - name: Settings
   items:
     - name: Platform
