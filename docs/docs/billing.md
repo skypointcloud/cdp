@@ -6,71 +6,147 @@ In this sub-section, details of the current subscription the user has actiavted 
 2. Plan
 3. Price
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/billing-info.PNG?raw=true)
-
 After the basic details in regards to the subscription, is a brief tabular description of all the different basic plans offered to the user on this platform. The user have been given the liberty to choose the payment plan with two options:
 1. Pay Monthly
 2. Pay Yearly
 
 To upgrade a plan click on the upgrade button on that particular plan which you want to subscribe.
+**Note** : The starter and the professional plan have a 14 day trial period that can help the users to familiarize themselves with the product and can account for their needs.
 
 ### Base Plans Details
-1. **FREE** : By default, the free plan is activated and the user gets the following features with the subscription:
-    - Price: $0 per month
-    - Number of Instance: 1
-    - Number of Users: 1
-    - Privacy Center
-    - Consent Manager
-    - Data Subject Request Manager
-    - Online Support
-2. **STARTER** : If the user chooses the starter plan, below are the following features that will be activated post subscription:
-    - Price: $995 per month(Pay Monthly) and $796 per month(Pay Annually)
-    - Number of Data Integrations: 3
-    - Number of Instance: 1
-    - Number of Profiles: 100K
-    - Number of Users: 5
-    - Identity Resolution
-    - Customer 360 View
-    - Real-Time Data Mapping
-    - Privacy Center
-    - Consent Manager
-    - Data Subject Request Automation
-    - Priority Support
-    - $2K Concierge Setup Included
-3. **PROFESSIONAL** : If the user chooses the Professional plan, below are the following features that will be activated post subscription:
-    - Price: $1995 per month(Pay Monthly) and $1596 per month(Pay Annually)
-    - Number of Data Integrations: 5
-    - Number of Instance: 2
-    - Number of Profiles: 200K
-    - Number of Users: 10
-    - Identity Resolution
-    - Customer 360 View
-    - Real-Time Data Mapping
-    - Privacy Center
-    - Consent Manager
-    - Data Subject Request Automation
-    - Standard Data Science Models
-    - Priority Support
-    - $4K Concierge Setup Included
-4. **ENTERPRISE** : If the user chooses the enterprise plan, below are the following features that will be activated post subscription:
-    - Price: Custom
-    - Number of Data Integrations: 10+
-    - Number of Instance: 2+
-    - Number of Profiles: 200K+
-    - Number of Users: 10+
-    - Power Platform Integration
-    - Identity Resolution
-    - Customer 360 View
-    - APIs and Developer SDKs
-    - Single sign-on (SSO)
-    - Real Time Data Mapping
-    - Privacy Center
-    - Consent Manager
-    - Data Subject Request Automation
-    - Data Privacy Impact Assessments
-    - Custom Storage Configurations
-    - Dedicated Support
-    - Dedicated Account Manager
+
+1. **Starter** : If the user chooses the starter plan, below are the following features that will be activated post subscription:
+
+    For **Pricing** :
+    - 796 dollars/month (to be paid annually)
+    - 995 dollars/month (to be paid monthly)
+
+    For **Privacy Compliance** :
+    - Sensitive Data Inventory and Mapping
+    - Consent and Preference Management
+    - Data Subject Request Management
+    - Automated privacy request fulfillment and automated identity verification
+    - Branded and customized privacy center for consumers to submit privacy requests and manage consent
+
+    For **Customer 360** :
+    - Maximum Number of Customer 360 Profiles - 100K
+    - Rule based Identity Resolution
+    - Rule based audiences and metrics
+    - Automated data exports to many destinations including SaaS apps and Ad networks
+
+    For **Other Essentials** :
+    - Data integrations (import and export) - 3
+    - Instances - 1
+    - Platform users - 3
+    - Customer Support via email, phone, or live chat
+
+2. **Professional** : If the user chooses the professional plan, below are the following features that will be activated post subscription:
+
+    For **Pricing** :
+    - 1596 dollars/month (to be paid annually)
+    - 1995 dollars/month (to be paid monthly)
+    
+    For **Privacy Compliance**:
+    - Sensitive Data Inventory and Mapping
+    - Consent and Preference Management
+    - Data Subject Request Management
+    - Automated privacy request fulfillment and automated identity verification
+    - Branded and customized privacy center for consumers to submit privacy requests and manage consent
+
+    For **Customer 360** :
+    - Maximum Number of Customer 360 Profiles - 200K
+    - Rule based Identity Resolution
+    - Rule based audiences and metrics
+    - Automated data exports to many destinations including SaaS apps and Ad networks
+    - Standard data science models and predictive insights
+
+    For **Other Essentials** :
+    - Data integrations (import and export) - 5
+    - Instances - 2
+    - Platform users - 5
+    - Customer Support via email, phone, or live chat
+
+3. **Enterprise** : If the user chooses the enterprise plan, below are the following features that will be activated post subscription:
+
+    For **Pricing** :
+    - Custom
+
+    For **Privacy Compliance**:
+    - Sensitive Data Inventory and Mapping
+    - Real-Time Data Discovery and Classification
+    - Consent and Preference Management
+    - Data Subject Request Management
+    - Automated privacy request fulfillment and automated identity verification
+    - Branded and customized privacy center for consumers to submit privacy requests and manage consent
+    - Multiple Branded Privacy Centers and My Privacy Integration via APIs
+    - Privacy Impact Assessment (PIA)
+    - Incident Response Management (Partner Integration)
+    - Third Party Risk Management
+    - De-Identification and Data Sharing
+
+    For **Customer 360** :
+    - Maximum Number of Customer 360 Profiles - 200K+
+    - Rule based Identity Resolution
+    - Machine Learning based Identity Resolution
+    - Rule based audiences and metrics
+    - Machine Learning based predictive audiences and metrics
+    - Automated data exports to many destinations including SaaS apps and Ad networks
+    - Standard data science models and predictive insights
+    - Custom data science models and predictive insights
+    - Custom your own cloud storage configurations
+    - Additional Customer 360 Profiles (charged per 100K blocks)
+
+    For **Other Essentials** :
+    - Data integrations (import and export) - 10+
+    - Instances - 2+
+    - Platform users - 10+
+    - Single Sign-On (SSO)
+    - Microsoft Power Platform, Teams and Power BI Connectors
+    - SkyPoint API and Developer SDKs
+    - Dedicated support and success team
+    - Customer Support via email, phone, or live chat
+    - Uptime SLA
+
+4. **Privacy Pro** : If the user chooses the enterprise plan, below are the following features that will be activated post subscription:
+
+    For **Pricing** :
+    - Custom
+
+    For **Privacy Compliance**:
+    - Sensitive Data Inventory and Mapping
+    - Real-Time Data Discovery and Classification
+    - Consent and Preference Management
+    - Data Subject Request Management
+    - Automated privacy request fulfillment and automated identity verification
+    - Branded and customized privacy center for consumers to submit privacy requests and manage consent
+    - Multiple Branded Privacy Centers and My Privacy Integration via APIs
+    - Privacy Impact Assessment (PIA)
+    - Incident Response Management (Partner Integration)
+    - Third Party Risk Management
+    - De-Identification and Data Sharing
+
+    For **Customer 360** :
+    - Maximum Number of Customer 360 Profiles - 200K+
+    - Rule based Identity Resolution
+    - Machine Learning based Identity Resolution
+    - Rule based audiences and metrics
+    - Machine Learning based predictive audiences and metrics
+    - Automated data exports to many destinations including SaaS apps and Ad networks
+    - Standard data science models and predictive insights
+    - Custom data science models and predictive insights
+    - Custom your own cloud storage configurations
+    - Additional Customer 360 Profiles (charged per 100K blocks)
+
+    For **Other Essentials** :
+    - Data integrations (import and export) - 3+
+    - Instances - 2+
+    - Platform users - 5+
+    - Single Sign-On (SSO)
+    - Microsoft Power Platform, Teams and Power BI Connectors
+    - SkyPoint API and Developer SDKs
+    - Dedicated support and success team
+    - Customer Support via email, phone, or live chat
+    - Uptime SLA
 
 ## Billing Information
 This subsection covers the basic information regarding the payments and billings. Account Information displayed on top of the page are:
