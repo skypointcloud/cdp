@@ -26,6 +26,8 @@
           href: azuredatalakestoragegen2.md
         - name: Campaign Monitor
           href: campaignmonitor.md
+        - name: Dynamics 365
+          href: dynamics365.md
         - name: Klaviyo
           href: klaviyo.md
         - name: Salesforce
