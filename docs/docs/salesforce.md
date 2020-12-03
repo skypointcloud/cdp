@@ -2,23 +2,24 @@
 
 In order to allow **SkyPoint** access to your **Salesforce account**, you need to provide the following details:
 
-  1. **Username**
-  1. **Password**
-  1. **Security Token**
-  1. **Environment URL**
-  
-  Once you enter all the required details, **Click Connect**: 
-  
-   * Upon clicking the Connect button, it will validate your credentials, if it is successful you will see a notification **Data loaded successfully** else it will show the error that login has failed.
+1. Username
+2. Password
+3. Security Token
+4. Environment URL
 
-   * Upon successful connection, it will show the list of data imported from the source with headers, Name, Type, Entity etc.
+## Steps to follow
 
-   * Select the entities you want and save the data flow.
+1. Navigate to **Data** > **Dataflows** and click on *Add Dataflow* button present on top right side of the platform.
+2. Fill in the name of the connector and click on **Next**.
+3. You will see all the different types of connectors present infront of you. In the search bar present on top right, type Salesforce and select the Salesforce connector.
 
-   * You can run the data flow as and when required by choosing the run action from dataflow screen.
-        
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/salesforceconnect.PNG?raw=true)
 
-**The following properties are supported for the Salesforce connector service.**
+4. Next, fill in the display name and type in a breif description about the connector in the ***general section*** and then go to ***Connector Section*** to configure the connector with our platform.
+5. Enter all the required details and click on **Connect**. It might take some time to finish up, depending upon the data size.
+6. Once its completed, you will be able to see the imported entities below the Connect button.
+
+## The following properties are supported for the Salesforce connector service
 
 1. **Environment URL specify the URL of the Salesforce instance.**
 
