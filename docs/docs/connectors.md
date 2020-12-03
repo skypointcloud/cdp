@@ -8,6 +8,9 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 1. You can fiter the list of connectors with respect to the following categories.
       - All Categories
 ### Azure
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/azurelistconnector.PNG?raw=true)
+
 - *Azure Blob Storage*
 - *Azure Cosmos DB (MongoDB API)*
 - *Azure Cosmos DB (SQL API)*
@@ -23,6 +26,9 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *Azure Synapse Analytics (Formerly SQL DW)*
 - *Azure Table Storage*
 ### Database
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/databaselistconnector.PNG?raw=true)
+
 - *Amazon Redshift*
 - *Apache Impala*
 - *Azure Data Explorer (Kusto)*
@@ -53,6 +59,9 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *Teradata*
 - *Vertica*
 ### File
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/filelistconnector.PNG?raw=true)
+
 - [*Amazon S3*](amazonsthree.md)
 - *FTP*
 - *File System*
@@ -61,14 +70,23 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *HTTP*
 - *SFTP*
 ### Generic Protocol
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/genericlistconnector.PNG?raw=true)
+
 - *ODBC*
 - *OData*
 - *REST*
 ### NoSQL
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/nosqllistconnector.PNG?raw=true)
+
 - *Cassandra*
 - *Couchbase*
 - *MongoDB*
 ### Services and Apps
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/serviceslistconnector.PNG?raw=true)
+
 - *Amazon Marketplace Web Service*
 - *Azhure Data Explorer (Kusto)*
 - [*Campaign Monitor*](campaignmonitor.md)
