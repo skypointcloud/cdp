@@ -118,7 +118,7 @@
   items:
     - name: APIs
       href: api.md
-- name: SkyPoint Cloud Power Platform Connector  
+- name: Power Platform Connector  
   items:
     - name: Actions
       href: actions.md
