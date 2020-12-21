@@ -43,6 +43,6 @@ Export lets you to export the cdm files to Facebook Ads Manager.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/fbappstep5.jpg?raw=true)
 
-8. You can get the **App ID** and **App Secret** when you navigate to **Settings** > **Basic**. The AD Account ID is the number written in parenthesis after the Business manager account name.
+8. You can get the **App ID** and **App Secret** when you navigate to **Settings** > **Basic**. The AD Account ID is the number written in parenthesis after the Business manager account name and has a prefix **act_**.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/fbappstep6.jpg?raw=true)
