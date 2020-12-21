@@ -16,6 +16,8 @@
       items:
         - name: Overview
           href: connectors.md
+        - name: Amazon Redshift
+          href: amazonredshift.md
         - name: Amazon S3
           href: amazonsthree.md
         - name: Azure Blob Storage
@@ -92,6 +94,8 @@
           href: adlsgen2export.md
         - name: Campaign Monitor
           href: campaignmonitorexport.md
+        - name: Facebook Ads
+          href: facebookadsexport.md
         - name: Klaviyo
           href: klaviyoexport.md
         - name: Salesforce Marketing Cloud
