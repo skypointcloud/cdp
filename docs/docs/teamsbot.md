@@ -2,8 +2,6 @@
 
 Connect with Microsoft Teams to interact with our bot in order to gather relevant information regarding customer profiles from our platform.
 
-<!-- ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/bot.PNG?raw=true) -->
-
 ## Prerequisites
 
 In order to set up and configure the bot, there are certain requirements that needs to be fulfilled:
@@ -32,14 +30,14 @@ The bot provides lookup capabilities for customer profiles.
 2. Moving forward, to switch to a particular tenant, you can type **switchtenant** and the bot will present you a list of all the tenants that you are a member of.
 3. You can choose a specific tenant by either typing the name of the tenant or the serial number of the tenant from the list presented to you by our bot.
 4. After selecting a specific tenant, the bot will respond with another list containing the names of the instances owned in that particular tenant.
-7. You can choose a specific instance by either typing the name of the instance or the serial number of the instance from the list presented to you by our bot.
+5. You can choose a specific instance by either typing the name of the instance or the serial number of the instance from the list presented to you by our bot.
 
 ### Switch Instance
 1. In order to switch instance, the only requirement needed is that you have logged.
 2. Moving forward, to switch to a particular instance, you can type **switchinstance** and the bot will present you a list of all the instances that you are a member of.
 3. If there is only one instance, then the bot will respond by notifying you about it and then that single instance will be selected by default.
-3. In case of multiple instances, the bot will respond with another list containing the names of the instances owned in that particular tenant.
-7. You can choose a specific instance by either typing the name of the instance or the serial number of the instance from the list presented to you by our bot.
+4. In case of multiple instances, the bot will respond with another list containing the names of the instances owned in that particular tenant.
+5. You can choose a specific instance by either typing the name of the instance or the serial number of the instance from the list presented to you by our bot.
 
 ### Search
 1. In order to search for a particular customer profile, you must have logged in to a particular tenant and selected a particular instance where the customer profiles are present.
