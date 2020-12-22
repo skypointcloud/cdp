@@ -2,7 +2,7 @@
 
 Connect with Microsoft Teams to interact with our bot in order to gather relevant information regarding customer profiles from our platform.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/bot.PNG?raw=true)
+<!-- ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/bot.PNG?raw=true) -->
 
 ## Prerequisites
 
