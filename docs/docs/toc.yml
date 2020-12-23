@@ -1,5 +1,7 @@
 - name: Overview
   href: overview.md
+- name: SkyPoint Cloud Bot
+  href: teamsbot.md
 - name: Getting Started 
   items:
     - name: Signup
@@ -132,5 +134,3 @@
       href: triggers.md
     - name: Throttling Limits
       href: throttling.md
-- name: SkyPoint Cloud Bot
-  href: teamsbot.md
