@@ -80,6 +80,8 @@
       href: audiences.md
     - name: Metrics
       href: metrics.md
+    - name: Predictions
+      href: transactionalchurnmodel.md
 - name: Action
   items:
     - name: Export
