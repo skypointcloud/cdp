@@ -14,5 +14,5 @@ When users authenticate, a session is established. For the duration of the sessi
 
     ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/sessiondefaults.PNG?raw=true)
 
-5. The user also gets a warning on the screen through a pop up screen that has a dynamic countdown to notify you about the timeout.
+5. The user also gets a warning on the screen through a pop up screen that has a dynamic countdown to notify the user about the timeout.
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/timeoutsession.PNG?raw=true)
