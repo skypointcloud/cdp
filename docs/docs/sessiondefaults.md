@@ -15,4 +15,4 @@ When users authenticate, a session is established. For the duration of the sessi
     - **Maximum Session Length** : The duration after which the user will be logged out automatically and asked for login again.
     - **Duration of inactivity before timeout** : The duration of inactivity after which the user will be logged out and asked to login again.
 
-    ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/sessiondefaults.PNG?raw=true)
+    ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/sessionview.PNG?raw=true)
