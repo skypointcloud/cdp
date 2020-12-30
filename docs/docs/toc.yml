@@ -1,7 +1,5 @@
 - name: Overview
   href: overview.md
-- name: SkyPoint Cloud Bot
-  href: skypointbot.md
 - name: Getting Started 
   items:
     - name: Signup
@@ -102,16 +100,28 @@
           href: facebookadsexport.md
         - name: Klaviyo
           href: klaviyoexport.md
+        - name: Power Platform Connector  
+          items:
+            - name: Actions
+              href: actions.md
+            - name: Triggers
+              href: triggers.md
+            - name: Throttling Limits
+              href: throttling.md
         - name: Salesforce Marketing Cloud
           href: sfmcexport.md
+        - name: SkyPoint Cloud Bot
+          href: skypointbot.md
 - name: Settings
   items:
     - name: Platform
       items:
-        - name: Tenant
+        - name: Tenant Defaults
           href: tenant.md
-        - name: Instance
+        - name: Instance Defaults
           href: instance.md
+        - name: Session Defaults
+          href: sessiondefaults.md
         - name: Notification
           href: notifications.md
         - name: Schedule
@@ -126,11 +136,3 @@
   items:
     - name: APIs
       href: api.md
-- name: Power Platform Connector  
-  items:
-    - name: Actions
-      href: actions.md
-    - name: Triggers
-      href: triggers.md
-    - name: Throttling Limits
-      href: throttling.md
