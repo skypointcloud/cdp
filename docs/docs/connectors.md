@@ -112,7 +112,7 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *Salesforce Marketing Cloud*
 - *Salesforce Service Cloud*
 - *Service Now*
-- *Shopify*](shopify.md)
+- [*Shopify*](shopify.md)
 - *Square*
 - *Web Table*
 - *Xero*
