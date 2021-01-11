@@ -44,3 +44,7 @@ Below are the necessary steps required to run the prediction.
 9. After reviewing all the details, select **Save And Run**.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/churnmodelstep9.PNG?raw=true)
+
+10. When the model is completely run, you will be able to see your model in the **My Predictions** section. Post completion, an entity will also be created with type **Intelligence** containing the predictions.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/modelcreated.PNG?raw=true)
