@@ -21,9 +21,7 @@
 
 1. In the expression area, choose a field to begin your calculations with.
 
-1. Type an expression in the expression area while choosing more fields to be included in your calculation.
-
-**Note** : Currently, only arithmetic expressions are supported.
+1. Type an expression in the expression area while choosing more fields to be included in your calculation. Currently, only arithmetic expressions are supported.
 
 1. In the metric definition section, you'll define how your chosen entities and calculated variables are aggregated in a new measure entity or attribute.
 
