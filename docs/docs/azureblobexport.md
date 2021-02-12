@@ -20,7 +20,7 @@ Export lets you to export the cdm files to Azure Blob Storage
 ## Step 03 - Entities to export
 Here all the **CDM** data will be available Entity wise.
 - Select the entities from the list to be exported
-- Click **Save** Button.
+- Click **Save** and then click on three dot button and select **Run**.
     - The export will be started.
 
 ## Step 04 - Download Exported Data
