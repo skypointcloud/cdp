@@ -82,6 +82,8 @@
       href: metrics.md
     - name: Predictions
       href: transactionalchurnmodel.md
+    - name: Sample Guide for Transactional Churn Prediction
+      href: sampleguide.md
 - name: Action
   items:
     - name: Export
