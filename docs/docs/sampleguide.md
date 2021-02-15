@@ -20,7 +20,7 @@ Follow the steps below to import customer data from eCommerce platform:
 7. Select the datetime format for both the files as **11/25/1979**.
 8. Click on **Save** and then run it by clicking on the three dot button and selecting Run.
 
-## Step 2 - Ingest Loyalty Data
+## Step 2 - Import Loyalty Data
 Follow the steps below to import the loyalty data from eCommerce platform:
 1. Create a dataflow named loyalty, and choose the Azure Data Lake Gen 2 connector.
 2. Enter the credentials for the storage account where the csv files are stored and click on connect. Select the loyalty data.
