@@ -1,6 +1,6 @@
 # Transactional Churn Prediction Sample Guide(Rule Based Approach)
 
-This guide will walk you through an end to end example of Transactional Churn prediction in **Insights** using the data provided below. All data used in this guide is not real customer data and is a part of the Contoso dataset found in the SalesDemmo instance.
+This guide will walk you through an end to end example of Transactional Churn prediction in **Insights** using the data provided below. All data used in this guide is not real customer data and is a part of the Contoso dataset found in the SalesDemo instance.
 
 ## Step 1 - Import Customer & Online Purchase Data
 Follow the steps below to import customer data from eCommerce platform:

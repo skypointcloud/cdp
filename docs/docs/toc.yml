@@ -47,13 +47,23 @@
     - name: Entities
       href: entities.md
     - name: Stitch
-      href: stitch.md
+      items:
+        - name: Overview
+          href: stitch.md
+        - name: Map
+          href: map.md
+        - name: Rule Match
+          href: rulematch.md
+        - name: ML Match
+          href: mlmatch.md
+        - name: Rule Merge
+          href: rulemerge.md
+        - name: ML Merge
+          href: mlmerge.md
     - name: Timelines
       href: timelines.md
     - name: Associations
       href: associations.md
-    - name: Models
-      href: models.md
 - name: Privacy
   items:
     - name: Overview
@@ -88,6 +98,8 @@
           href: sampleguiderulemethod.md
         - name: Sample Guide For Transactional Churn Prediction(Using ML Based Approach)
           href: sampleguide.md
+    - name: Custom Models
+      href: models.md
 - name: Action
   items:
     - name: Export

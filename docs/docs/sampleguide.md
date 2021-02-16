@@ -1,6 +1,6 @@
 # Transactional Churn Prediction Sample Guide
 
-This guide will walk you through an end to end example of Transactional Churn prediction in **Insights** using the data provided below. All data used in this guide is not real customer data and is a part of the Contoso dataset found in the SalesDemmo instance.
+This guide will walk you through an end to end example of Transactional Churn prediction in **Insights** using the data provided below. All data used in this guide is not real customer data and is a part of the Contoso dataset found in the SalesDemo instance.
 
 ## Step 1 - Import Customer & Online Purchase Data
 Follow the steps below to import customer data from eCommerce platform:
@@ -32,7 +32,7 @@ Follow the steps below to import the loyalty data from eCommerce platform:
 5. Select the datetime format for both the files as **11/25/1979**.
 6. Click on **Save** and then run it by clicking on the three dot button and selecting Run.
 
-## Step 3 - Stitch Process : MAP
+## Step 3 - Stitch Process : Map
 
 1. After importing the data, we now begin the Map process in the stitch section of our platform as the first step to create a customer profile.
 2. Navigate to **Stitch** > **Map** and click on Select Entities.
