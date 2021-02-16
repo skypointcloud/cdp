@@ -81,9 +81,13 @@
     - name: Metrics
       href: metrics.md
     - name: Predictions
-      href: transactionalchurnmodel.md
-    - name: Sample Guide for Transactional Churn Prediction
-      href: sampleguide.md
+      items:
+        - name: Overview
+          href: transactionalchurnmodel.md
+        - name: Sample Guide For Transactional Churn Prediction(Using Rule Based Approach)
+          href: sampleguiderulemethod.md
+        - name: Sample Guide For Transactional Churn Prediction(Using ML Based Approach)
+          href: sampleguide.md
 - name: Action
   items:
     - name: Export
