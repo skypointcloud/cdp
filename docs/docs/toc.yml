@@ -94,9 +94,9 @@
       items:
         - name: Overview
           href: transactionalchurnmodel.md
-        - name: Sample Guide For Transactional Churn Prediction(Using Rule Based Approach)
+        - name: Sample Guide For Transactional Churn Prediction(Using Rule Match)
           href: sampleguiderulemethod.md
-        - name: Sample Guide For Transactional Churn Prediction(Using ML Based Approach)
+        - name: Sample Guide For Transactional Churn Prediction(Using ML Match)
           href: sampleguide.md
     - name: Custom Models
       href: models.md
