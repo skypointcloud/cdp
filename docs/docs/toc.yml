@@ -92,12 +92,38 @@
       href: metrics.md
     - name: Predictions
       items:
-        - name: Overview
-          href: transactionalchurnmodel.md
-        - name: Sample Guide For Transactional Churn Prediction(Using Rule Match)
-          href: sampleguiderulemethod.md
-        - name: Sample Guide For Transactional Churn Prediction(Using ML Match)
-          href: sampleguide.md
+        - name: Transactional Churn Model
+          items:
+            - name: Overview
+              href: transactionalchurnmodel.md
+            - name: Sample Guide For Transactional Churn Prediction(Using Rule Match)
+              href: sampleguiderulemethod.md
+            - name: Sample Guide For Transactional Churn Prediction(Using ML Match)
+              href: sampleguide.md
+        - name: Subscription Churn Model
+          items:
+            - name: Overview
+              href: subscriptionchurnmodel.md
+            - name: Sample Guide For Transactional Churn Prediction(Using Rule Match)
+              href: sampleguideforsubscriptionchurnrulemethod.md
+            - name: Sample Guide For Transactional Churn Prediction(Using ML Match)
+              href: sampleguideforsubscriptionchurn.md
+        - name: Customer Lifetime Value Model
+          items:
+            - name: Overview
+              href: clvmodel.md
+            - name: Sample Guide For CLV Prediction(Using Rule Match)
+              href: sampleguideforclvrulemethod.md
+            - name: Sample Guide For CLV Prediction(Using ML Match)
+              href: sampleguideforclv.md
+        - name: Product Recommendation Model
+          items:
+            - name: Overview
+              href: productrecommendationmodel.md
+            - name: Sample Guide For Product Recommendation(Using Rule Match)
+              href: sampleguideforproductrecommendationrulemethod.md
+            - name: Sample Guide For Product Recommendation(Using ML Match)
+              href: sampleguideforproductrecommendation.md
     - name: Custom Models
       href: models.md
 - name: Action
