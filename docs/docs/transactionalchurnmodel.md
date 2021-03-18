@@ -88,7 +88,7 @@ Below are the necessary steps required to run the prediction.
         - **C** when the model accurately predicted less 50% of the total predictions, or when the percentage of accurate predictions for profiles who churned is less than the baseline.
         - Baseline takes the prediction time window input for the model (for example, one year) and the model creates different fractions of time by dividing it by 2 until it reaches one month or less. It uses these fractions to create a business rule for profiles who have not purchased in this time frame. These profiles are considered as churned. The time-based business rule with the highest ability to predict who is likely to churn is chosen as baseline model.
 
-        ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/reviewmodel.PNG?raw=true)
+        ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/result.PNG?raw=true)
 
     - Likelihood to churn (number of profiles): Groups of profiles based on their predicted risk of churn. This data can help you later if you want to create an audience of profiles with high churn risk. Such audiences help to understand where your cutoff should be for audience membership.
 
