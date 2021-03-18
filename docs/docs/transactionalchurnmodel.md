@@ -27,7 +27,7 @@
 ## Create A Transaction Churn Prediction
 With the stitch process done, we can run the Transactional churn prediction.
 Below are the necessary steps required to run the prediction.
-1. Go to **Insights** > **Predictions** and select to use the profile Churn Model.
+1. Go to **Insights** > **Predictions** and select to use the Customer Churn Model.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/churnmodelstep1.PNG?raw=true)
 
@@ -78,11 +78,22 @@ Below are the necessary steps required to run the prediction.
     - **Predicted field**: This field is populated only for some types of predictions, and isn't used in churn prediction.
     - **Edited**: The date the configuration for the prediction was changed.
 3. Select the vertical ellipses just under action column, to review results for the prediction you want to and select View.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/reviewmodel.png?raw=true)
+
 4. There are three primary sections of data within the results page:
     - Training model performance: A, B, or C are possible scores. This score indicates the performance of the prediction, and can help you make the decision to use the results stored in the output entity. Scores are determined based on the following rules:
         - **A** when the model accurately predicted at least 50% of the total predictions, and when the percentage of accurate predictions for profiles who churned is greater than the baseline rate by at least 10%.
         - **B** when the model accurately predicted at least 50% of the total predictions, and when the percentage of accurate predictions for profiles who churned is up to 10% greater than the baseline.
         - **C** when the model accurately predicted less 50% of the total predictions, or when the percentage of accurate predictions for profiles who churned is less than the baseline.
         - Baseline takes the prediction time window input for the model (for example, one year) and the model creates different fractions of time by dividing it by 2 until it reaches one month or less. It uses these fractions to create a business rule for profiles who have not purchased in this time frame. These profiles are considered as churned. The time-based business rule with the highest ability to predict who is likely to churn is chosen as baseline model.
-    - Likelihood to churn (number of profiles): Groups of profiles based on their predicted risk of churn. This data can help you later if you want to create a segment of profiles with high churn risk. Such segments help to understand where your cutoff should be for segment membership.
-    - Most influential factors: There are many factors that are taken into account when creating your prediction. Each of the factors has its importance calculated for the aggregated predictions a model creates. You can use these factors to help validate your prediction results. Or you can use this information later to create segments that could help influence churn risk for profiles.
+
+        ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/reviewmodel.PNG?raw=true)
+
+    - Likelihood to churn (number of profiles): Groups of profiles based on their predicted risk of churn. This data can help you later if you want to create an audience of profiles with high churn risk. Such audiences help to understand where your cutoff should be for audience membership.
+
+    ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/likelihood.PNG?raw=true)
+
+    - Most influential factors: There are many factors that are taken into account when creating your prediction. Each of the factors has its importance calculated for the aggregated predictions a model creates. You can use these factors to help validate your prediction results. Or you can use this information later to create audiences that could help influence churn risk for profiles.
+
+    ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/mostinfluencialfactors.PNG?raw=true)
