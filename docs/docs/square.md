@@ -6,8 +6,8 @@ In order to allow SkyPoint access to your Square account, you'll need:
 2. **URL**
 
 **Note** : For URL, there are two urls that can be used in order to fetch data from square connector.
-1. Production URL: To fetch data from the production environment, use **https://connect.squareup.com/**
-2. Sandbox URL: To fetch data from the sandbox environment, use **https://connect.squareupsandbox.com/**
+1. **Production URL**: To fetch data from the production environment, use **https://connect.squareup.com/**
+2. **Sandbox URL**: To fetch data from the sandbox environment, use **https://connect.squareupsandbox.com/**
 
 ## Steps to Import Data Using Square
 
