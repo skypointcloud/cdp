@@ -36,6 +36,8 @@
           href: salesforce.md  
         - name: Salesforce Marketing Cloud
           href: salesforcemarketingcloud.md
+        - name: SFTP(Simple File Transfer Protocol)
+          href: sftp.md
         - name: Shopify
           href: shopify.md
         - name: Square
