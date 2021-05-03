@@ -65,3 +65,14 @@ If you don't want to get all the folders selected, with just one click of the **
 ## Step 04 - Save
 - Click **Save** Button.
     - You will be taken to the Dataflow page.
+
+## Files Supported for SFTP
+- Comma Separated File - **.csv**
+- Data File - **.dat**
+- Database File - **.db** or **.dbf**
+- Linux/Unix Tarball File Archive - **.tar**
+- Log File = **.log**
+- Microsoft Access Database File - **.mdb**
+- Save File - **.sav**
+- SQL Database File - **.sql**
+- XML File - **.xml**
