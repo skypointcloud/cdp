@@ -148,6 +148,8 @@
           href: campaignmonitorexport.md
         - name: Facebook Ads
           href: facebookadsexport.md
+        - name: Google Ads
+          href: googleadsexport.md
         - name: Klaviyo
           href: klaviyoexport.md
         - name: Power Platform Connector  
