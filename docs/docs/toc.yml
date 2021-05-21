@@ -32,6 +32,8 @@
           href: campaignmonitor.md
         - name: Dynamics 365
           href: dynamics365.md
+        - name: Google Cloud Storage(S3 API)
+          href: googlecloudstorage.md
         - name: Klaviyo
           href: klaviyo.md
         - name: Salesforce
