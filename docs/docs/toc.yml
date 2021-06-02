@@ -95,7 +95,13 @@
     - name: Profiles
       href: profiles.md
     - name: Audiences
-      href: audiences.md
+      items:
+        - name: Audience Overview
+          href: audiences.md
+        - name: Suggested Audiences
+          href: suggestedaudiences.md
+        - name: Audience Insights
+          href: audienceinsights.md
     - name: Metrics
       href: metrics.md
     - name: Predictions
