@@ -23,7 +23,7 @@
 ### Using Azure Active Directory
 1. Click on the **Azure AD** button.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/loginviaazure.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/loginviaazure.png?raw=true)
 
 2. You will be redirected to Microsoft authentication page to verify your credentials.
 3. Once the verification is completed, you will be automatically taken to SkyPoint CDP dashboard.
