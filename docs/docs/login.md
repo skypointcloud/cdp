@@ -37,7 +37,7 @@
 3. You will see a message, **Verification code has been sent to your inbox. Please copy it to the input box below**.
 4. You will receive a verification code in your email.
 5. Enter the same verification code to the field available for the code verification.
-6. Enter the code before the it expires.
+6. Enter the code before it expires.
 7. Once you click the verify button you will be taken to a page where you can change the password.
 8. Once you reset the password, you will be redirected to the login page.
 9. Enter the email id and updated password and click **Sign in**
